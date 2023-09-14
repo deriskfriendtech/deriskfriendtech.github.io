@@ -1,0 +1,4502 @@
+[
+  {
+    "share": 0,
+    "sharePrice": 0,
+    "netFees": 0,
+    "buyPrice": 0,
+    "sellPrice": 0,
+    "profitableShare": 0,
+    "profitableShareDelta": 0
+  },
+  {
+    "share": 1,
+    "sharePrice": 0.0000625,
+    "netFees": 0.00000625,
+    "buyPrice": 0.00006875,
+    "sellPrice": 0,
+    "profitableShare": 3,
+    "profitableShareDelta": 2
+  },
+  {
+    "share": 2,
+    "sharePrice": 0.00025,
+    "netFees": 0.000025,
+    "buyPrice": 0.000275,
+    "sellPrice": 0.00005625,
+    "profitableShare": 4,
+    "profitableShareDelta": 2
+  },
+  {
+    "share": 3,
+    "sharePrice": 0.0005625,
+    "netFees": 0.00005625,
+    "buyPrice": 0.0006187499999999999,
+    "sellPrice": 0.000225,
+    "profitableShare": 5,
+    "profitableShareDelta": 2
+  },
+  {
+    "share": 4,
+    "sharePrice": 0.001,
+    "netFees": 0.0001,
+    "buyPrice": 0.0011,
+    "sellPrice": 0.00050625,
+    "profitableShare": 6,
+    "profitableShareDelta": 2
+  },
+  {
+    "share": 5,
+    "sharePrice": 0.0015625,
+    "netFees": 0.00015625000000000003,
+    "buyPrice": 0.0017187500000000002,
+    "sellPrice": 0.0009,
+    "profitableShare": 7,
+    "profitableShareDelta": 2
+  },
+  {
+    "share": 6,
+    "sharePrice": 0.00225,
+    "netFees": 0.000225,
+    "buyPrice": 0.0024749999999999998,
+    "sellPrice": 0.00140625,
+    "profitableShare": 8,
+    "profitableShareDelta": 2
+  },
+  {
+    "share": 7,
+    "sharePrice": 0.0030625,
+    "netFees": 0.00030625000000000004,
+    "buyPrice": 0.00336875,
+    "sellPrice": 0.002025,
+    "profitableShare": 9,
+    "profitableShareDelta": 2
+  },
+  {
+    "share": 8,
+    "sharePrice": 0.004,
+    "netFees": 0.0004,
+    "buyPrice": 0.0044,
+    "sellPrice": 0.00275625,
+    "profitableShare": 10,
+    "profitableShareDelta": 2
+  },
+  {
+    "share": 9,
+    "sharePrice": 0.0050625,
+    "netFees": 0.0005062500000000001,
+    "buyPrice": 0.00556875,
+    "sellPrice": 0.0036,
+    "profitableShare": 11,
+    "profitableShareDelta": 2
+  },
+  {
+    "share": 10,
+    "sharePrice": 0.00625,
+    "netFees": 0.0006250000000000001,
+    "buyPrice": 0.006875000000000001,
+    "sellPrice": 0.00455625,
+    "profitableShare": 13,
+    "profitableShareDelta": 3
+  },
+  {
+    "share": 11,
+    "sharePrice": 0.0075625,
+    "netFees": 0.00075625,
+    "buyPrice": 0.00831875,
+    "sellPrice": 0.005625,
+    "profitableShare": 14,
+    "profitableShareDelta": 3
+  },
+  {
+    "share": 12,
+    "sharePrice": 0.009,
+    "netFees": 0.0009,
+    "buyPrice": 0.009899999999999999,
+    "sellPrice": 0.00680625,
+    "profitableShare": 15,
+    "profitableShareDelta": 3
+  },
+  {
+    "share": 13,
+    "sharePrice": 0.0105625,
+    "netFees": 0.0010562500000000001,
+    "buyPrice": 0.01161875,
+    "sellPrice": 0.0081,
+    "profitableShare": 16,
+    "profitableShareDelta": 3
+  },
+  {
+    "share": 14,
+    "sharePrice": 0.01225,
+    "netFees": 0.0012250000000000002,
+    "buyPrice": 0.013475,
+    "sellPrice": 0.00950625,
+    "profitableShare": 17,
+    "profitableShareDelta": 3
+  },
+  {
+    "share": 15,
+    "sharePrice": 0.0140625,
+    "netFees": 0.0014062500000000002,
+    "buyPrice": 0.01546875,
+    "sellPrice": 0.011025,
+    "profitableShare": 18,
+    "profitableShareDelta": 3
+  },
+  {
+    "share": 16,
+    "sharePrice": 0.016,
+    "netFees": 0.0016,
+    "buyPrice": 0.0176,
+    "sellPrice": 0.01265625,
+    "profitableShare": 19,
+    "profitableShareDelta": 3
+  },
+  {
+    "share": 17,
+    "sharePrice": 0.0180625,
+    "netFees": 0.00180625,
+    "buyPrice": 0.019868749999999998,
+    "sellPrice": 0.0144,
+    "profitableShare": 20,
+    "profitableShareDelta": 3
+  },
+  {
+    "share": 18,
+    "sharePrice": 0.02025,
+    "netFees": 0.0020250000000000003,
+    "buyPrice": 0.022275,
+    "sellPrice": 0.01625625,
+    "profitableShare": 21,
+    "profitableShareDelta": 3
+  },
+  {
+    "share": 19,
+    "sharePrice": 0.0225625,
+    "netFees": 0.00225625,
+    "buyPrice": 0.02481875,
+    "sellPrice": 0.018225,
+    "profitableShare": 23,
+    "profitableShareDelta": 4
+  },
+  {
+    "share": 20,
+    "sharePrice": 0.025,
+    "netFees": 0.0025000000000000005,
+    "buyPrice": 0.027500000000000004,
+    "sellPrice": 0.020306249999999998,
+    "profitableShare": 24,
+    "profitableShareDelta": 4
+  },
+  {
+    "share": 21,
+    "sharePrice": 0.0275625,
+    "netFees": 0.00275625,
+    "buyPrice": 0.03031875,
+    "sellPrice": 0.0225,
+    "profitableShare": 25,
+    "profitableShareDelta": 4
+  },
+  {
+    "share": 22,
+    "sharePrice": 0.03025,
+    "netFees": 0.003025,
+    "buyPrice": 0.033275,
+    "sellPrice": 0.024806250000000002,
+    "profitableShare": 26,
+    "profitableShareDelta": 4
+  },
+  {
+    "share": 23,
+    "sharePrice": 0.0330625,
+    "netFees": 0.00330625,
+    "buyPrice": 0.036368750000000005,
+    "sellPrice": 0.027225,
+    "profitableShare": 27,
+    "profitableShareDelta": 4
+  },
+  {
+    "share": 24,
+    "sharePrice": 0.036,
+    "netFees": 0.0036,
+    "buyPrice": 0.039599999999999996,
+    "sellPrice": 0.02975625,
+    "profitableShare": 28,
+    "profitableShareDelta": 4
+  },
+  {
+    "share": 25,
+    "sharePrice": 0.0390625,
+    "netFees": 0.00390625,
+    "buyPrice": 0.04296875,
+    "sellPrice": 0.0324,
+    "profitableShare": 29,
+    "profitableShareDelta": 4
+  },
+  {
+    "share": 26,
+    "sharePrice": 0.04225,
+    "netFees": 0.0042250000000000005,
+    "buyPrice": 0.046475,
+    "sellPrice": 0.03515625,
+    "profitableShare": 30,
+    "profitableShareDelta": 4
+  },
+  {
+    "share": 27,
+    "sharePrice": 0.0455625,
+    "netFees": 0.00455625,
+    "buyPrice": 0.05011875,
+    "sellPrice": 0.038025,
+    "profitableShare": 31,
+    "profitableShareDelta": 4
+  },
+  {
+    "share": 28,
+    "sharePrice": 0.049,
+    "netFees": 0.004900000000000001,
+    "buyPrice": 0.0539,
+    "sellPrice": 0.04100625,
+    "profitableShare": 32,
+    "profitableShareDelta": 4
+  },
+  {
+    "share": 29,
+    "sharePrice": 0.0525625,
+    "netFees": 0.0052562500000000005,
+    "buyPrice": 0.05781875,
+    "sellPrice": 0.0441,
+    "profitableShare": 34,
+    "profitableShareDelta": 5
+  },
+  {
+    "share": 30,
+    "sharePrice": 0.05625,
+    "netFees": 0.005625000000000001,
+    "buyPrice": 0.061875,
+    "sellPrice": 0.047306249999999994,
+    "profitableShare": 35,
+    "profitableShareDelta": 5
+  },
+  {
+    "share": 31,
+    "sharePrice": 0.0600625,
+    "netFees": 0.00600625,
+    "buyPrice": 0.06606875,
+    "sellPrice": 0.050625,
+    "profitableShare": 36,
+    "profitableShareDelta": 5
+  },
+  {
+    "share": 32,
+    "sharePrice": 0.064,
+    "netFees": 0.0064,
+    "buyPrice": 0.0704,
+    "sellPrice": 0.05405625,
+    "profitableShare": 37,
+    "profitableShareDelta": 5
+  },
+  {
+    "share": 33,
+    "sharePrice": 0.0680625,
+    "netFees": 0.00680625,
+    "buyPrice": 0.07486875,
+    "sellPrice": 0.0576,
+    "profitableShare": 38,
+    "profitableShareDelta": 5
+  },
+  {
+    "share": 34,
+    "sharePrice": 0.07225,
+    "netFees": 0.007225,
+    "buyPrice": 0.07947499999999999,
+    "sellPrice": 0.06125625,
+    "profitableShare": 39,
+    "profitableShareDelta": 5
+  },
+  {
+    "share": 35,
+    "sharePrice": 0.0765625,
+    "netFees": 0.007656250000000001,
+    "buyPrice": 0.08421875000000001,
+    "sellPrice": 0.065025,
+    "profitableShare": 40,
+    "profitableShareDelta": 5
+  },
+  {
+    "share": 36,
+    "sharePrice": 0.081,
+    "netFees": 0.008100000000000001,
+    "buyPrice": 0.0891,
+    "sellPrice": 0.06890625,
+    "profitableShare": 41,
+    "profitableShareDelta": 5
+  },
+  {
+    "share": 37,
+    "sharePrice": 0.0855625,
+    "netFees": 0.00855625,
+    "buyPrice": 0.09411875,
+    "sellPrice": 0.0729,
+    "profitableShare": 42,
+    "profitableShareDelta": 5
+  },
+  {
+    "share": 38,
+    "sharePrice": 0.09025,
+    "netFees": 0.009025,
+    "buyPrice": 0.099275,
+    "sellPrice": 0.07700625,
+    "profitableShare": 44,
+    "profitableShareDelta": 6
+  },
+  {
+    "share": 39,
+    "sharePrice": 0.0950625,
+    "netFees": 0.00950625,
+    "buyPrice": 0.10456874999999999,
+    "sellPrice": 0.08122499999999999,
+    "profitableShare": 45,
+    "profitableShareDelta": 6
+  },
+  {
+    "share": 40,
+    "sharePrice": 0.1,
+    "netFees": 0.010000000000000002,
+    "buyPrice": 0.11000000000000001,
+    "sellPrice": 0.08555625,
+    "profitableShare": 46,
+    "profitableShareDelta": 6
+  },
+  {
+    "share": 41,
+    "sharePrice": 0.1050625,
+    "netFees": 0.010506250000000002,
+    "buyPrice": 0.11556875,
+    "sellPrice": 0.09,
+    "profitableShare": 47,
+    "profitableShareDelta": 6
+  },
+  {
+    "share": 42,
+    "sharePrice": 0.11025,
+    "netFees": 0.011025,
+    "buyPrice": 0.121275,
+    "sellPrice": 0.09455625000000001,
+    "profitableShare": 48,
+    "profitableShareDelta": 6
+  },
+  {
+    "share": 43,
+    "sharePrice": 0.1155625,
+    "netFees": 0.01155625,
+    "buyPrice": 0.12711875,
+    "sellPrice": 0.09922500000000001,
+    "profitableShare": 49,
+    "profitableShareDelta": 6
+  },
+  {
+    "share": 44,
+    "sharePrice": 0.121,
+    "netFees": 0.0121,
+    "buyPrice": 0.1331,
+    "sellPrice": 0.10400625,
+    "profitableShare": 50,
+    "profitableShareDelta": 6
+  },
+  {
+    "share": 45,
+    "sharePrice": 0.1265625,
+    "netFees": 0.01265625,
+    "buyPrice": 0.13921875,
+    "sellPrice": 0.1089,
+    "profitableShare": 51,
+    "profitableShareDelta": 6
+  },
+  {
+    "share": 46,
+    "sharePrice": 0.13225,
+    "netFees": 0.013225,
+    "buyPrice": 0.14547500000000002,
+    "sellPrice": 0.11390624999999999,
+    "profitableShare": 52,
+    "profitableShareDelta": 6
+  },
+  {
+    "share": 47,
+    "sharePrice": 0.1380625,
+    "netFees": 0.01380625,
+    "buyPrice": 0.15186875,
+    "sellPrice": 0.119025,
+    "profitableShare": 53,
+    "profitableShareDelta": 6
+  },
+  {
+    "share": 48,
+    "sharePrice": 0.144,
+    "netFees": 0.0144,
+    "buyPrice": 0.15839999999999999,
+    "sellPrice": 0.12425625,
+    "profitableShare": 55,
+    "profitableShareDelta": 7
+  },
+  {
+    "share": 49,
+    "sharePrice": 0.1500625,
+    "netFees": 0.015006249999999999,
+    "buyPrice": 0.16506875,
+    "sellPrice": 0.1296,
+    "profitableShare": 56,
+    "profitableShareDelta": 7
+  },
+  {
+    "share": 50,
+    "sharePrice": 0.15625,
+    "netFees": 0.015625,
+    "buyPrice": 0.171875,
+    "sellPrice": 0.13505625,
+    "profitableShare": 57,
+    "profitableShareDelta": 7
+  },
+  {
+    "share": 51,
+    "sharePrice": 0.1625625,
+    "netFees": 0.01625625,
+    "buyPrice": 0.17881875,
+    "sellPrice": 0.140625,
+    "profitableShare": 58,
+    "profitableShareDelta": 7
+  },
+  {
+    "share": 52,
+    "sharePrice": 0.169,
+    "netFees": 0.016900000000000002,
+    "buyPrice": 0.1859,
+    "sellPrice": 0.14630625,
+    "profitableShare": 59,
+    "profitableShareDelta": 7
+  },
+  {
+    "share": 53,
+    "sharePrice": 0.1755625,
+    "netFees": 0.017556250000000002,
+    "buyPrice": 0.19311875,
+    "sellPrice": 0.1521,
+    "profitableShare": 60,
+    "profitableShareDelta": 7
+  },
+  {
+    "share": 54,
+    "sharePrice": 0.18225,
+    "netFees": 0.018225,
+    "buyPrice": 0.200475,
+    "sellPrice": 0.15800625000000001,
+    "profitableShare": 61,
+    "profitableShareDelta": 7
+  },
+  {
+    "share": 55,
+    "sharePrice": 0.1890625,
+    "netFees": 0.01890625,
+    "buyPrice": 0.20796874999999998,
+    "sellPrice": 0.164025,
+    "profitableShare": 62,
+    "profitableShareDelta": 7
+  },
+  {
+    "share": 56,
+    "sharePrice": 0.196,
+    "netFees": 0.019600000000000003,
+    "buyPrice": 0.2156,
+    "sellPrice": 0.17015625,
+    "profitableShare": 63,
+    "profitableShareDelta": 7
+  },
+  {
+    "share": 57,
+    "sharePrice": 0.2030625,
+    "netFees": 0.02030625,
+    "buyPrice": 0.22336875,
+    "sellPrice": 0.1764,
+    "profitableShare": 65,
+    "profitableShareDelta": 8
+  },
+  {
+    "share": 58,
+    "sharePrice": 0.21025,
+    "netFees": 0.021025000000000002,
+    "buyPrice": 0.231275,
+    "sellPrice": 0.18275625,
+    "profitableShare": 66,
+    "profitableShareDelta": 8
+  },
+  {
+    "share": 59,
+    "sharePrice": 0.2175625,
+    "netFees": 0.02175625,
+    "buyPrice": 0.23931875,
+    "sellPrice": 0.18922499999999998,
+    "profitableShare": 67,
+    "profitableShareDelta": 8
+  },
+  {
+    "share": 60,
+    "sharePrice": 0.225,
+    "netFees": 0.022500000000000003,
+    "buyPrice": 0.2475,
+    "sellPrice": 0.19580625,
+    "profitableShare": 68,
+    "profitableShareDelta": 8
+  },
+  {
+    "share": 61,
+    "sharePrice": 0.2325625,
+    "netFees": 0.023256250000000003,
+    "buyPrice": 0.25581875,
+    "sellPrice": 0.2025,
+    "profitableShare": 69,
+    "profitableShareDelta": 8
+  },
+  {
+    "share": 62,
+    "sharePrice": 0.24025,
+    "netFees": 0.024025,
+    "buyPrice": 0.264275,
+    "sellPrice": 0.20930625,
+    "profitableShare": 70,
+    "profitableShareDelta": 8
+  },
+  {
+    "share": 63,
+    "sharePrice": 0.2480625,
+    "netFees": 0.024806250000000002,
+    "buyPrice": 0.27286875,
+    "sellPrice": 0.216225,
+    "profitableShare": 71,
+    "profitableShareDelta": 8
+  },
+  {
+    "share": 64,
+    "sharePrice": 0.256,
+    "netFees": 0.0256,
+    "buyPrice": 0.2816,
+    "sellPrice": 0.22325625,
+    "profitableShare": 72,
+    "profitableShareDelta": 8
+  },
+  {
+    "share": 65,
+    "sharePrice": 0.2640625,
+    "netFees": 0.02640625,
+    "buyPrice": 0.29046875,
+    "sellPrice": 0.2304,
+    "profitableShare": 73,
+    "profitableShareDelta": 8
+  },
+  {
+    "share": 66,
+    "sharePrice": 0.27225,
+    "netFees": 0.027225,
+    "buyPrice": 0.299475,
+    "sellPrice": 0.23765624999999999,
+    "profitableShare": 74,
+    "profitableShareDelta": 8
+  },
+  {
+    "share": 67,
+    "sharePrice": 0.2805625,
+    "netFees": 0.02805625,
+    "buyPrice": 0.30861875,
+    "sellPrice": 0.245025,
+    "profitableShare": 76,
+    "profitableShareDelta": 9
+  },
+  {
+    "share": 68,
+    "sharePrice": 0.289,
+    "netFees": 0.0289,
+    "buyPrice": 0.31789999999999996,
+    "sellPrice": 0.25250625,
+    "profitableShare": 77,
+    "profitableShareDelta": 9
+  },
+  {
+    "share": 69,
+    "sharePrice": 0.2975625,
+    "netFees": 0.02975625,
+    "buyPrice": 0.32731875,
+    "sellPrice": 0.2601,
+    "profitableShare": 78,
+    "profitableShareDelta": 9
+  },
+  {
+    "share": 70,
+    "sharePrice": 0.30625,
+    "netFees": 0.030625000000000003,
+    "buyPrice": 0.33687500000000004,
+    "sellPrice": 0.26780625,
+    "profitableShare": 79,
+    "profitableShareDelta": 9
+  },
+  {
+    "share": 71,
+    "sharePrice": 0.3150625,
+    "netFees": 0.031506250000000006,
+    "buyPrice": 0.34656875000000004,
+    "sellPrice": 0.275625,
+    "profitableShare": 80,
+    "profitableShareDelta": 9
+  },
+  {
+    "share": 72,
+    "sharePrice": 0.324,
+    "netFees": 0.032400000000000005,
+    "buyPrice": 0.3564,
+    "sellPrice": 0.28355625,
+    "profitableShare": 81,
+    "profitableShareDelta": 9
+  },
+  {
+    "share": 73,
+    "sharePrice": 0.3330625,
+    "netFees": 0.03330625,
+    "buyPrice": 0.36636874999999997,
+    "sellPrice": 0.2916,
+    "profitableShare": 82,
+    "profitableShareDelta": 9
+  },
+  {
+    "share": 74,
+    "sharePrice": 0.34225,
+    "netFees": 0.034225,
+    "buyPrice": 0.376475,
+    "sellPrice": 0.29975625,
+    "profitableShare": 83,
+    "profitableShareDelta": 9
+  },
+  {
+    "share": 75,
+    "sharePrice": 0.3515625,
+    "netFees": 0.03515625,
+    "buyPrice": 0.38671875,
+    "sellPrice": 0.308025,
+    "profitableShare": 84,
+    "profitableShareDelta": 9
+  },
+  {
+    "share": 76,
+    "sharePrice": 0.361,
+    "netFees": 0.0361,
+    "buyPrice": 0.3971,
+    "sellPrice": 0.31640625,
+    "profitableShare": 86,
+    "profitableShareDelta": 10
+  },
+  {
+    "share": 77,
+    "sharePrice": 0.3705625,
+    "netFees": 0.037056250000000006,
+    "buyPrice": 0.40761875000000003,
+    "sellPrice": 0.32489999999999997,
+    "profitableShare": 87,
+    "profitableShareDelta": 10
+  },
+  {
+    "share": 78,
+    "sharePrice": 0.38025,
+    "netFees": 0.038025,
+    "buyPrice": 0.41827499999999995,
+    "sellPrice": 0.33350625,
+    "profitableShare": 88,
+    "profitableShareDelta": 10
+  },
+  {
+    "share": 79,
+    "sharePrice": 0.3900625,
+    "netFees": 0.03900625,
+    "buyPrice": 0.42906875,
+    "sellPrice": 0.342225,
+    "profitableShare": 89,
+    "profitableShareDelta": 10
+  },
+  {
+    "share": 80,
+    "sharePrice": 0.4,
+    "netFees": 0.04000000000000001,
+    "buyPrice": 0.44000000000000006,
+    "sellPrice": 0.35105624999999996,
+    "profitableShare": 90,
+    "profitableShareDelta": 10
+  },
+  {
+    "share": 81,
+    "sharePrice": 0.4100625,
+    "netFees": 0.04100625,
+    "buyPrice": 0.45106875,
+    "sellPrice": 0.36,
+    "profitableShare": 91,
+    "profitableShareDelta": 10
+  },
+  {
+    "share": 82,
+    "sharePrice": 0.42025,
+    "netFees": 0.04202500000000001,
+    "buyPrice": 0.462275,
+    "sellPrice": 0.36905625,
+    "profitableShare": 92,
+    "profitableShareDelta": 10
+  },
+  {
+    "share": 83,
+    "sharePrice": 0.4305625,
+    "netFees": 0.043056250000000004,
+    "buyPrice": 0.47361875000000003,
+    "sellPrice": 0.37822500000000003,
+    "profitableShare": 93,
+    "profitableShareDelta": 10
+  },
+  {
+    "share": 84,
+    "sharePrice": 0.441,
+    "netFees": 0.0441,
+    "buyPrice": 0.4851,
+    "sellPrice": 0.38750625,
+    "profitableShare": 94,
+    "profitableShareDelta": 10
+  },
+  {
+    "share": 85,
+    "sharePrice": 0.4515625,
+    "netFees": 0.04515625,
+    "buyPrice": 0.49671875,
+    "sellPrice": 0.39690000000000003,
+    "profitableShare": 95,
+    "profitableShareDelta": 10
+  },
+  {
+    "share": 86,
+    "sharePrice": 0.46225,
+    "netFees": 0.046225,
+    "buyPrice": 0.508475,
+    "sellPrice": 0.40640624999999997,
+    "profitableShare": 97,
+    "profitableShareDelta": 11
+  },
+  {
+    "share": 87,
+    "sharePrice": 0.4730625,
+    "netFees": 0.04730625,
+    "buyPrice": 0.52036875,
+    "sellPrice": 0.416025,
+    "profitableShare": 98,
+    "profitableShareDelta": 11
+  },
+  {
+    "share": 88,
+    "sharePrice": 0.484,
+    "netFees": 0.0484,
+    "buyPrice": 0.5324,
+    "sellPrice": 0.42575625,
+    "profitableShare": 99,
+    "profitableShareDelta": 11
+  },
+  {
+    "share": 89,
+    "sharePrice": 0.4950625,
+    "netFees": 0.04950625,
+    "buyPrice": 0.54456875,
+    "sellPrice": 0.4356,
+    "profitableShare": 100,
+    "profitableShareDelta": 11
+  },
+  {
+    "share": 90,
+    "sharePrice": 0.50625,
+    "netFees": 0.050625,
+    "buyPrice": 0.556875,
+    "sellPrice": 0.44555625,
+    "profitableShare": 101,
+    "profitableShareDelta": 11
+  },
+  {
+    "share": 91,
+    "sharePrice": 0.5175625,
+    "netFees": 0.051756250000000004,
+    "buyPrice": 0.5693187500000001,
+    "sellPrice": 0.45562499999999995,
+    "profitableShare": 102,
+    "profitableShareDelta": 11
+  },
+  {
+    "share": 92,
+    "sharePrice": 0.529,
+    "netFees": 0.0529,
+    "buyPrice": 0.5819000000000001,
+    "sellPrice": 0.46580625000000003,
+    "profitableShare": 103,
+    "profitableShareDelta": 11
+  },
+  {
+    "share": 93,
+    "sharePrice": 0.5405625,
+    "netFees": 0.05405625,
+    "buyPrice": 0.59461875,
+    "sellPrice": 0.4761,
+    "profitableShare": 104,
+    "profitableShareDelta": 11
+  },
+  {
+    "share": 94,
+    "sharePrice": 0.55225,
+    "netFees": 0.055225,
+    "buyPrice": 0.607475,
+    "sellPrice": 0.4865062499999999,
+    "profitableShare": 105,
+    "profitableShareDelta": 11
+  },
+  {
+    "share": 95,
+    "sharePrice": 0.5640625,
+    "netFees": 0.056406250000000005,
+    "buyPrice": 0.62046875,
+    "sellPrice": 0.497025,
+    "profitableShare": 107,
+    "profitableShareDelta": 12
+  },
+  {
+    "share": 96,
+    "sharePrice": 0.576,
+    "netFees": 0.0576,
+    "buyPrice": 0.6335999999999999,
+    "sellPrice": 0.50765625,
+    "profitableShare": 108,
+    "profitableShareDelta": 12
+  },
+  {
+    "share": 97,
+    "sharePrice": 0.5880625,
+    "netFees": 0.058806250000000004,
+    "buyPrice": 0.6468687500000001,
+    "sellPrice": 0.5184,
+    "profitableShare": 109,
+    "profitableShareDelta": 12
+  },
+  {
+    "share": 98,
+    "sharePrice": 0.60025,
+    "netFees": 0.060024999999999995,
+    "buyPrice": 0.660275,
+    "sellPrice": 0.52925625,
+    "profitableShare": 110,
+    "profitableShareDelta": 12
+  },
+  {
+    "share": 99,
+    "sharePrice": 0.6125625,
+    "netFees": 0.061256250000000005,
+    "buyPrice": 0.67381875,
+    "sellPrice": 0.540225,
+    "profitableShare": 111,
+    "profitableShareDelta": 12
+  },
+  {
+    "share": 100,
+    "sharePrice": 0.625,
+    "netFees": 0.0625,
+    "buyPrice": 0.6875,
+    "sellPrice": 0.55130625,
+    "profitableShare": 112,
+    "profitableShareDelta": 12
+  },
+  {
+    "share": 101,
+    "sharePrice": 0.6375625,
+    "netFees": 0.06375625,
+    "buyPrice": 0.70131875,
+    "sellPrice": 0.5625,
+    "profitableShare": 113,
+    "profitableShareDelta": 12
+  },
+  {
+    "share": 102,
+    "sharePrice": 0.65025,
+    "netFees": 0.065025,
+    "buyPrice": 0.715275,
+    "sellPrice": 0.5738062500000001,
+    "profitableShare": 114,
+    "profitableShareDelta": 12
+  },
+  {
+    "share": 103,
+    "sharePrice": 0.6630625,
+    "netFees": 0.06630625,
+    "buyPrice": 0.72936875,
+    "sellPrice": 0.585225,
+    "profitableShare": 115,
+    "profitableShareDelta": 12
+  },
+  {
+    "share": 104,
+    "sharePrice": 0.676,
+    "netFees": 0.06760000000000001,
+    "buyPrice": 0.7436,
+    "sellPrice": 0.59675625,
+    "profitableShare": 116,
+    "profitableShareDelta": 12
+  },
+  {
+    "share": 105,
+    "sharePrice": 0.6890625,
+    "netFees": 0.06890625,
+    "buyPrice": 0.7579687500000001,
+    "sellPrice": 0.6084,
+    "profitableShare": 118,
+    "profitableShareDelta": 13
+  },
+  {
+    "share": 106,
+    "sharePrice": 0.70225,
+    "netFees": 0.07022500000000001,
+    "buyPrice": 0.772475,
+    "sellPrice": 0.62015625,
+    "profitableShare": 119,
+    "profitableShareDelta": 13
+  },
+  {
+    "share": 107,
+    "sharePrice": 0.7155625,
+    "netFees": 0.07155625,
+    "buyPrice": 0.78711875,
+    "sellPrice": 0.6320250000000001,
+    "profitableShare": 120,
+    "profitableShareDelta": 13
+  },
+  {
+    "share": 108,
+    "sharePrice": 0.729,
+    "netFees": 0.0729,
+    "buyPrice": 0.8019,
+    "sellPrice": 0.64400625,
+    "profitableShare": 121,
+    "profitableShareDelta": 13
+  },
+  {
+    "share": 109,
+    "sharePrice": 0.7425625,
+    "netFees": 0.07425625000000001,
+    "buyPrice": 0.81681875,
+    "sellPrice": 0.6561,
+    "profitableShare": 122,
+    "profitableShareDelta": 13
+  },
+  {
+    "share": 110,
+    "sharePrice": 0.75625,
+    "netFees": 0.075625,
+    "buyPrice": 0.8318749999999999,
+    "sellPrice": 0.66830625,
+    "profitableShare": 123,
+    "profitableShareDelta": 13
+  },
+  {
+    "share": 111,
+    "sharePrice": 0.7700625,
+    "netFees": 0.07700625,
+    "buyPrice": 0.84706875,
+    "sellPrice": 0.680625,
+    "profitableShare": 124,
+    "profitableShareDelta": 13
+  },
+  {
+    "share": 112,
+    "sharePrice": 0.784,
+    "netFees": 0.07840000000000001,
+    "buyPrice": 0.8624,
+    "sellPrice": 0.6930562499999999,
+    "profitableShare": 125,
+    "profitableShareDelta": 13
+  },
+  {
+    "share": 113,
+    "sharePrice": 0.7980625,
+    "netFees": 0.07980625000000001,
+    "buyPrice": 0.87786875,
+    "sellPrice": 0.7056,
+    "profitableShare": 126,
+    "profitableShareDelta": 13
+  },
+  {
+    "share": 114,
+    "sharePrice": 0.81225,
+    "netFees": 0.081225,
+    "buyPrice": 0.893475,
+    "sellPrice": 0.71825625,
+    "profitableShare": 128,
+    "profitableShareDelta": 14
+  },
+  {
+    "share": 115,
+    "sharePrice": 0.8265625,
+    "netFees": 0.08265625,
+    "buyPrice": 0.90921875,
+    "sellPrice": 0.731025,
+    "profitableShare": 129,
+    "profitableShareDelta": 14
+  },
+  {
+    "share": 116,
+    "sharePrice": 0.841,
+    "netFees": 0.08410000000000001,
+    "buyPrice": 0.9251,
+    "sellPrice": 0.74390625,
+    "profitableShare": 130,
+    "profitableShareDelta": 14
+  },
+  {
+    "share": 117,
+    "sharePrice": 0.8555625,
+    "netFees": 0.08555625,
+    "buyPrice": 0.94111875,
+    "sellPrice": 0.7568999999999999,
+    "profitableShare": 131,
+    "profitableShareDelta": 14
+  },
+  {
+    "share": 118,
+    "sharePrice": 0.87025,
+    "netFees": 0.087025,
+    "buyPrice": 0.957275,
+    "sellPrice": 0.77000625,
+    "profitableShare": 132,
+    "profitableShareDelta": 14
+  },
+  {
+    "share": 119,
+    "sharePrice": 0.8850625,
+    "netFees": 0.08850625000000001,
+    "buyPrice": 0.97356875,
+    "sellPrice": 0.783225,
+    "profitableShare": 133,
+    "profitableShareDelta": 14
+  },
+  {
+    "share": 120,
+    "sharePrice": 0.9,
+    "netFees": 0.09000000000000001,
+    "buyPrice": 0.99,
+    "sellPrice": 0.79655625,
+    "profitableShare": 134,
+    "profitableShareDelta": 14
+  },
+  {
+    "share": 121,
+    "sharePrice": 0.9150625,
+    "netFees": 0.09150625000000001,
+    "buyPrice": 1.00656875,
+    "sellPrice": 0.81,
+    "profitableShare": 135,
+    "profitableShareDelta": 14
+  },
+  {
+    "share": 122,
+    "sharePrice": 0.93025,
+    "netFees": 0.09302500000000001,
+    "buyPrice": 1.023275,
+    "sellPrice": 0.82355625,
+    "profitableShare": 136,
+    "profitableShareDelta": 14
+  },
+  {
+    "share": 123,
+    "sharePrice": 0.9455625,
+    "netFees": 0.09455625000000001,
+    "buyPrice": 1.04011875,
+    "sellPrice": 0.837225,
+    "profitableShare": 137,
+    "profitableShareDelta": 14
+  },
+  {
+    "share": 124,
+    "sharePrice": 0.961,
+    "netFees": 0.0961,
+    "buyPrice": 1.0571,
+    "sellPrice": 0.85100625,
+    "profitableShare": 139,
+    "profitableShareDelta": 15
+  },
+  {
+    "share": 125,
+    "sharePrice": 0.9765625,
+    "netFees": 0.09765625,
+    "buyPrice": 1.07421875,
+    "sellPrice": 0.8649,
+    "profitableShare": 140,
+    "profitableShareDelta": 15
+  },
+  {
+    "share": 126,
+    "sharePrice": 0.99225,
+    "netFees": 0.09922500000000001,
+    "buyPrice": 1.091475,
+    "sellPrice": 0.87890625,
+    "profitableShare": 141,
+    "profitableShareDelta": 15
+  },
+  {
+    "share": 127,
+    "sharePrice": 1.0080625,
+    "netFees": 0.10080625000000001,
+    "buyPrice": 1.10886875,
+    "sellPrice": 0.893025,
+    "profitableShare": 142,
+    "profitableShareDelta": 15
+  },
+  {
+    "share": 128,
+    "sharePrice": 1.024,
+    "netFees": 0.1024,
+    "buyPrice": 1.1264,
+    "sellPrice": 0.9072562500000001,
+    "profitableShare": 143,
+    "profitableShareDelta": 15
+  },
+  {
+    "share": 129,
+    "sharePrice": 1.0400625,
+    "netFees": 0.10400625,
+    "buyPrice": 1.14406875,
+    "sellPrice": 0.9216,
+    "profitableShare": 144,
+    "profitableShareDelta": 15
+  },
+  {
+    "share": 130,
+    "sharePrice": 1.05625,
+    "netFees": 0.105625,
+    "buyPrice": 1.161875,
+    "sellPrice": 0.9360562499999999,
+    "profitableShare": 145,
+    "profitableShareDelta": 15
+  },
+  {
+    "share": 131,
+    "sharePrice": 1.0725625,
+    "netFees": 0.10725625000000001,
+    "buyPrice": 1.1798187500000001,
+    "sellPrice": 0.9506249999999999,
+    "profitableShare": 146,
+    "profitableShareDelta": 15
+  },
+  {
+    "share": 132,
+    "sharePrice": 1.089,
+    "netFees": 0.1089,
+    "buyPrice": 1.1979,
+    "sellPrice": 0.96530625,
+    "profitableShare": 147,
+    "profitableShareDelta": 15
+  },
+  {
+    "share": 133,
+    "sharePrice": 1.1055625,
+    "netFees": 0.11055625000000001,
+    "buyPrice": 1.21611875,
+    "sellPrice": 0.9801,
+    "profitableShare": 149,
+    "profitableShareDelta": 16
+  },
+  {
+    "share": 134,
+    "sharePrice": 1.12225,
+    "netFees": 0.112225,
+    "buyPrice": 1.234475,
+    "sellPrice": 0.99500625,
+    "profitableShare": 150,
+    "profitableShareDelta": 16
+  },
+  {
+    "share": 135,
+    "sharePrice": 1.1390625,
+    "netFees": 0.11390625000000001,
+    "buyPrice": 1.2529687500000002,
+    "sellPrice": 1.010025,
+    "profitableShare": 151,
+    "profitableShareDelta": 16
+  },
+  {
+    "share": 136,
+    "sharePrice": 1.156,
+    "netFees": 0.1156,
+    "buyPrice": 1.2715999999999998,
+    "sellPrice": 1.02515625,
+    "profitableShare": 152,
+    "profitableShareDelta": 16
+  },
+  {
+    "share": 137,
+    "sharePrice": 1.1730625,
+    "netFees": 0.11730625,
+    "buyPrice": 1.2903687499999998,
+    "sellPrice": 1.0404,
+    "profitableShare": 153,
+    "profitableShareDelta": 16
+  },
+  {
+    "share": 138,
+    "sharePrice": 1.19025,
+    "netFees": 0.119025,
+    "buyPrice": 1.309275,
+    "sellPrice": 1.05575625,
+    "profitableShare": 154,
+    "profitableShareDelta": 16
+  },
+  {
+    "share": 139,
+    "sharePrice": 1.2075625,
+    "netFees": 0.12075625000000001,
+    "buyPrice": 1.3283187500000002,
+    "sellPrice": 1.071225,
+    "profitableShare": 155,
+    "profitableShareDelta": 16
+  },
+  {
+    "share": 140,
+    "sharePrice": 1.225,
+    "netFees": 0.12250000000000001,
+    "buyPrice": 1.3475000000000001,
+    "sellPrice": 1.08680625,
+    "profitableShare": 156,
+    "profitableShareDelta": 16
+  },
+  {
+    "share": 141,
+    "sharePrice": 1.2425625,
+    "netFees": 0.12425625000000001,
+    "buyPrice": 1.36681875,
+    "sellPrice": 1.1025,
+    "profitableShare": 157,
+    "profitableShareDelta": 16
+  },
+  {
+    "share": 142,
+    "sharePrice": 1.26025,
+    "netFees": 0.12602500000000003,
+    "buyPrice": 1.3862750000000001,
+    "sellPrice": 1.11830625,
+    "profitableShare": 158,
+    "profitableShareDelta": 16
+  },
+  {
+    "share": 143,
+    "sharePrice": 1.2780625,
+    "netFees": 0.12780625,
+    "buyPrice": 1.4058687500000002,
+    "sellPrice": 1.134225,
+    "profitableShare": 160,
+    "profitableShareDelta": 17
+  },
+  {
+    "share": 144,
+    "sharePrice": 1.296,
+    "netFees": 0.12960000000000002,
+    "buyPrice": 1.4256,
+    "sellPrice": 1.15025625,
+    "profitableShare": 161,
+    "profitableShareDelta": 17
+  },
+  {
+    "share": 145,
+    "sharePrice": 1.3140625,
+    "netFees": 0.13140625,
+    "buyPrice": 1.4454687499999999,
+    "sellPrice": 1.1664,
+    "profitableShare": 162,
+    "profitableShareDelta": 17
+  },
+  {
+    "share": 146,
+    "sharePrice": 1.33225,
+    "netFees": 0.133225,
+    "buyPrice": 1.4654749999999999,
+    "sellPrice": 1.18265625,
+    "profitableShare": 163,
+    "profitableShareDelta": 17
+  },
+  {
+    "share": 147,
+    "sharePrice": 1.3505625,
+    "netFees": 0.13505625000000002,
+    "buyPrice": 1.4856187500000002,
+    "sellPrice": 1.199025,
+    "profitableShare": 164,
+    "profitableShareDelta": 17
+  },
+  {
+    "share": 148,
+    "sharePrice": 1.369,
+    "netFees": 0.1369,
+    "buyPrice": 1.5059,
+    "sellPrice": 1.21550625,
+    "profitableShare": 165,
+    "profitableShareDelta": 17
+  },
+  {
+    "share": 149,
+    "sharePrice": 1.3875625,
+    "netFees": 0.13875625,
+    "buyPrice": 1.52631875,
+    "sellPrice": 1.2321,
+    "profitableShare": 166,
+    "profitableShareDelta": 17
+  },
+  {
+    "share": 150,
+    "sharePrice": 1.40625,
+    "netFees": 0.140625,
+    "buyPrice": 1.546875,
+    "sellPrice": 1.2488062500000001,
+    "profitableShare": 167,
+    "profitableShareDelta": 17
+  },
+  {
+    "share": 151,
+    "sharePrice": 1.4250625,
+    "netFees": 0.14250625,
+    "buyPrice": 1.56756875,
+    "sellPrice": 1.265625,
+    "profitableShare": 168,
+    "profitableShareDelta": 17
+  },
+  {
+    "share": 152,
+    "sharePrice": 1.444,
+    "netFees": 0.1444,
+    "buyPrice": 1.5884,
+    "sellPrice": 1.2825562499999998,
+    "profitableShare": 170,
+    "profitableShareDelta": 18
+  },
+  {
+    "share": 153,
+    "sharePrice": 1.4630625,
+    "netFees": 0.14630625,
+    "buyPrice": 1.60936875,
+    "sellPrice": 1.2995999999999999,
+    "profitableShare": 171,
+    "profitableShareDelta": 18
+  },
+  {
+    "share": 154,
+    "sharePrice": 1.48225,
+    "netFees": 0.14822500000000002,
+    "buyPrice": 1.6304750000000001,
+    "sellPrice": 1.3167562499999999,
+    "profitableShare": 172,
+    "profitableShareDelta": 18
+  },
+  {
+    "share": 155,
+    "sharePrice": 1.5015625,
+    "netFees": 0.15015625,
+    "buyPrice": 1.65171875,
+    "sellPrice": 1.334025,
+    "profitableShare": 173,
+    "profitableShareDelta": 18
+  },
+  {
+    "share": 156,
+    "sharePrice": 1.521,
+    "netFees": 0.1521,
+    "buyPrice": 1.6730999999999998,
+    "sellPrice": 1.35140625,
+    "profitableShare": 174,
+    "profitableShareDelta": 18
+  },
+  {
+    "share": 157,
+    "sharePrice": 1.5405625,
+    "netFees": 0.15405625,
+    "buyPrice": 1.69461875,
+    "sellPrice": 1.3689,
+    "profitableShare": 175,
+    "profitableShareDelta": 18
+  },
+  {
+    "share": 158,
+    "sharePrice": 1.56025,
+    "netFees": 0.156025,
+    "buyPrice": 1.716275,
+    "sellPrice": 1.38650625,
+    "profitableShare": 176,
+    "profitableShareDelta": 18
+  },
+  {
+    "share": 159,
+    "sharePrice": 1.5800625,
+    "netFees": 0.15800625000000001,
+    "buyPrice": 1.73806875,
+    "sellPrice": 1.4042249999999998,
+    "profitableShare": 177,
+    "profitableShareDelta": 18
+  },
+  {
+    "share": 160,
+    "sharePrice": 1.6,
+    "netFees": 0.16000000000000003,
+    "buyPrice": 1.7600000000000002,
+    "sellPrice": 1.4220562499999998,
+    "profitableShare": 178,
+    "profitableShareDelta": 18
+  },
+  {
+    "share": 161,
+    "sharePrice": 1.6200625,
+    "netFees": 0.16200625000000002,
+    "buyPrice": 1.78206875,
+    "sellPrice": 1.44,
+    "profitableShare": 179,
+    "profitableShareDelta": 18
+  },
+  {
+    "share": 162,
+    "sharePrice": 1.64025,
+    "netFees": 0.164025,
+    "buyPrice": 1.804275,
+    "sellPrice": 1.4580562499999998,
+    "profitableShare": 181,
+    "profitableShareDelta": 19
+  },
+  {
+    "share": 163,
+    "sharePrice": 1.6605625,
+    "netFees": 0.16605625000000002,
+    "buyPrice": 1.82661875,
+    "sellPrice": 1.476225,
+    "profitableShare": 182,
+    "profitableShareDelta": 19
+  },
+  {
+    "share": 164,
+    "sharePrice": 1.681,
+    "netFees": 0.16810000000000003,
+    "buyPrice": 1.8491,
+    "sellPrice": 1.49450625,
+    "profitableShare": 183,
+    "profitableShareDelta": 19
+  },
+  {
+    "share": 165,
+    "sharePrice": 1.7015625,
+    "netFees": 0.17015625,
+    "buyPrice": 1.87171875,
+    "sellPrice": 1.5129000000000001,
+    "profitableShare": 184,
+    "profitableShareDelta": 19
+  },
+  {
+    "share": 166,
+    "sharePrice": 1.72225,
+    "netFees": 0.17222500000000002,
+    "buyPrice": 1.8944750000000001,
+    "sellPrice": 1.53140625,
+    "profitableShare": 185,
+    "profitableShareDelta": 19
+  },
+  {
+    "share": 167,
+    "sharePrice": 1.7430625,
+    "netFees": 0.17430625,
+    "buyPrice": 1.91736875,
+    "sellPrice": 1.550025,
+    "profitableShare": 186,
+    "profitableShareDelta": 19
+  },
+  {
+    "share": 168,
+    "sharePrice": 1.764,
+    "netFees": 0.1764,
+    "buyPrice": 1.9404,
+    "sellPrice": 1.5687562499999999,
+    "profitableShare": 187,
+    "profitableShareDelta": 19
+  },
+  {
+    "share": 169,
+    "sharePrice": 1.7850625,
+    "netFees": 0.17850625,
+    "buyPrice": 1.96356875,
+    "sellPrice": 1.5876000000000001,
+    "profitableShare": 188,
+    "profitableShareDelta": 19
+  },
+  {
+    "share": 170,
+    "sharePrice": 1.80625,
+    "netFees": 0.180625,
+    "buyPrice": 1.986875,
+    "sellPrice": 1.60655625,
+    "profitableShare": 189,
+    "profitableShareDelta": 19
+  },
+  {
+    "share": 171,
+    "sharePrice": 1.8275625,
+    "netFees": 0.18275625,
+    "buyPrice": 2.01031875,
+    "sellPrice": 1.6256249999999999,
+    "profitableShare": 191,
+    "profitableShareDelta": 20
+  },
+  {
+    "share": 172,
+    "sharePrice": 1.849,
+    "netFees": 0.1849,
+    "buyPrice": 2.0339,
+    "sellPrice": 1.64480625,
+    "profitableShare": 192,
+    "profitableShareDelta": 20
+  },
+  {
+    "share": 173,
+    "sharePrice": 1.8705625,
+    "netFees": 0.18705625,
+    "buyPrice": 2.05761875,
+    "sellPrice": 1.6641,
+    "profitableShare": 193,
+    "profitableShareDelta": 20
+  },
+  {
+    "share": 174,
+    "sharePrice": 1.89225,
+    "netFees": 0.189225,
+    "buyPrice": 2.081475,
+    "sellPrice": 1.68350625,
+    "profitableShare": 194,
+    "profitableShareDelta": 20
+  },
+  {
+    "share": 175,
+    "sharePrice": 1.9140625,
+    "netFees": 0.19140625,
+    "buyPrice": 2.10546875,
+    "sellPrice": 1.703025,
+    "profitableShare": 195,
+    "profitableShareDelta": 20
+  },
+  {
+    "share": 176,
+    "sharePrice": 1.936,
+    "netFees": 0.1936,
+    "buyPrice": 2.1296,
+    "sellPrice": 1.72265625,
+    "profitableShare": 196,
+    "profitableShareDelta": 20
+  },
+  {
+    "share": 177,
+    "sharePrice": 1.9580625,
+    "netFees": 0.19580625000000002,
+    "buyPrice": 2.15386875,
+    "sellPrice": 1.7424,
+    "profitableShare": 197,
+    "profitableShareDelta": 20
+  },
+  {
+    "share": 178,
+    "sharePrice": 1.98025,
+    "netFees": 0.198025,
+    "buyPrice": 2.178275,
+    "sellPrice": 1.76225625,
+    "profitableShare": 198,
+    "profitableShareDelta": 20
+  },
+  {
+    "share": 179,
+    "sharePrice": 2.0025625,
+    "netFees": 0.20025625,
+    "buyPrice": 2.2028187499999996,
+    "sellPrice": 1.782225,
+    "profitableShare": 199,
+    "profitableShareDelta": 20
+  },
+  {
+    "share": 180,
+    "sharePrice": 2.025,
+    "netFees": 0.2025,
+    "buyPrice": 2.2275,
+    "sellPrice": 1.8023062499999998,
+    "profitableShare": 200,
+    "profitableShareDelta": 20
+  },
+  {
+    "share": 181,
+    "sharePrice": 2.0475625,
+    "netFees": 0.20475625000000003,
+    "buyPrice": 2.25231875,
+    "sellPrice": 1.8224999999999998,
+    "profitableShare": 202,
+    "profitableShareDelta": 21
+  },
+  {
+    "share": 182,
+    "sharePrice": 2.07025,
+    "netFees": 0.20702500000000001,
+    "buyPrice": 2.2772750000000004,
+    "sellPrice": 1.8428062500000002,
+    "profitableShare": 203,
+    "profitableShareDelta": 21
+  },
+  {
+    "share": 183,
+    "sharePrice": 2.0930625,
+    "netFees": 0.20930625,
+    "buyPrice": 2.30236875,
+    "sellPrice": 1.8632250000000001,
+    "profitableShare": 204,
+    "profitableShareDelta": 21
+  },
+  {
+    "share": 184,
+    "sharePrice": 2.116,
+    "netFees": 0.2116,
+    "buyPrice": 2.3276000000000003,
+    "sellPrice": 1.8837562499999998,
+    "profitableShare": 205,
+    "profitableShareDelta": 21
+  },
+  {
+    "share": 185,
+    "sharePrice": 2.1390625,
+    "netFees": 0.21390625000000002,
+    "buyPrice": 2.35296875,
+    "sellPrice": 1.9044,
+    "profitableShare": 206,
+    "profitableShareDelta": 21
+  },
+  {
+    "share": 186,
+    "sharePrice": 2.16225,
+    "netFees": 0.216225,
+    "buyPrice": 2.378475,
+    "sellPrice": 1.9251562500000001,
+    "profitableShare": 207,
+    "profitableShareDelta": 21
+  },
+  {
+    "share": 187,
+    "sharePrice": 2.1855625,
+    "netFees": 0.21855625,
+    "buyPrice": 2.4041187500000003,
+    "sellPrice": 1.9460249999999997,
+    "profitableShare": 208,
+    "profitableShareDelta": 21
+  },
+  {
+    "share": 188,
+    "sharePrice": 2.209,
+    "netFees": 0.2209,
+    "buyPrice": 2.4299,
+    "sellPrice": 1.96700625,
+    "profitableShare": 209,
+    "profitableShareDelta": 21
+  },
+  {
+    "share": 189,
+    "sharePrice": 2.2325625,
+    "netFees": 0.22325625,
+    "buyPrice": 2.4558187499999997,
+    "sellPrice": 1.9881,
+    "profitableShare": 210,
+    "profitableShareDelta": 21
+  },
+  {
+    "share": 190,
+    "sharePrice": 2.25625,
+    "netFees": 0.22562500000000002,
+    "buyPrice": 2.481875,
+    "sellPrice": 2.00930625,
+    "profitableShare": 212,
+    "profitableShareDelta": 22
+  },
+  {
+    "share": 191,
+    "sharePrice": 2.2800625,
+    "netFees": 0.22800625000000002,
+    "buyPrice": 2.50806875,
+    "sellPrice": 2.030625,
+    "profitableShare": 213,
+    "profitableShareDelta": 22
+  },
+  {
+    "share": 192,
+    "sharePrice": 2.304,
+    "netFees": 0.2304,
+    "buyPrice": 2.5343999999999998,
+    "sellPrice": 2.05205625,
+    "profitableShare": 214,
+    "profitableShareDelta": 22
+  },
+  {
+    "share": 193,
+    "sharePrice": 2.3280625,
+    "netFees": 0.23280625000000002,
+    "buyPrice": 2.56086875,
+    "sellPrice": 2.0736,
+    "profitableShare": 215,
+    "profitableShareDelta": 22
+  },
+  {
+    "share": 194,
+    "sharePrice": 2.35225,
+    "netFees": 0.23522500000000002,
+    "buyPrice": 2.5874750000000004,
+    "sellPrice": 2.0952562500000003,
+    "profitableShare": 216,
+    "profitableShareDelta": 22
+  },
+  {
+    "share": 195,
+    "sharePrice": 2.3765625,
+    "netFees": 0.23765625,
+    "buyPrice": 2.61421875,
+    "sellPrice": 2.117025,
+    "profitableShare": 217,
+    "profitableShareDelta": 22
+  },
+  {
+    "share": 196,
+    "sharePrice": 2.401,
+    "netFees": 0.24009999999999998,
+    "buyPrice": 2.6411,
+    "sellPrice": 2.13890625,
+    "profitableShare": 218,
+    "profitableShareDelta": 22
+  },
+  {
+    "share": 197,
+    "sharePrice": 2.4255625,
+    "netFees": 0.24255625,
+    "buyPrice": 2.6681187499999997,
+    "sellPrice": 2.1609,
+    "profitableShare": 219,
+    "profitableShareDelta": 22
+  },
+  {
+    "share": 198,
+    "sharePrice": 2.45025,
+    "netFees": 0.24502500000000002,
+    "buyPrice": 2.695275,
+    "sellPrice": 2.18300625,
+    "profitableShare": 220,
+    "profitableShareDelta": 22
+  },
+  {
+    "share": 199,
+    "sharePrice": 2.4750625,
+    "netFees": 0.24750625,
+    "buyPrice": 2.7225687499999998,
+    "sellPrice": 2.205225,
+    "profitableShare": 222,
+    "profitableShareDelta": 23
+  },
+  {
+    "share": 200,
+    "sharePrice": 2.5,
+    "netFees": 0.25,
+    "buyPrice": 2.75,
+    "sellPrice": 2.22755625,
+    "profitableShare": 223,
+    "profitableShareDelta": 23
+  },
+  {
+    "share": 201,
+    "sharePrice": 2.5250625,
+    "netFees": 0.25250625000000004,
+    "buyPrice": 2.7775687500000004,
+    "sellPrice": 2.25,
+    "profitableShare": 224,
+    "profitableShareDelta": 23
+  },
+  {
+    "share": 202,
+    "sharePrice": 2.55025,
+    "netFees": 0.255025,
+    "buyPrice": 2.805275,
+    "sellPrice": 2.27255625,
+    "profitableShare": 225,
+    "profitableShareDelta": 23
+  },
+  {
+    "share": 203,
+    "sharePrice": 2.5755625,
+    "netFees": 0.25755625000000004,
+    "buyPrice": 2.83311875,
+    "sellPrice": 2.2952250000000003,
+    "profitableShare": 226,
+    "profitableShareDelta": 23
+  },
+  {
+    "share": 204,
+    "sharePrice": 2.601,
+    "netFees": 0.2601,
+    "buyPrice": 2.8611,
+    "sellPrice": 2.3180062500000003,
+    "profitableShare": 227,
+    "profitableShareDelta": 23
+  },
+  {
+    "share": 205,
+    "sharePrice": 2.6265625,
+    "netFees": 0.26265625,
+    "buyPrice": 2.88921875,
+    "sellPrice": 2.3409,
+    "profitableShare": 228,
+    "profitableShareDelta": 23
+  },
+  {
+    "share": 206,
+    "sharePrice": 2.65225,
+    "netFees": 0.265225,
+    "buyPrice": 2.917475,
+    "sellPrice": 2.36390625,
+    "profitableShare": 229,
+    "profitableShareDelta": 23
+  },
+  {
+    "share": 207,
+    "sharePrice": 2.6780625,
+    "netFees": 0.26780624999999997,
+    "buyPrice": 2.94586875,
+    "sellPrice": 2.387025,
+    "profitableShare": 230,
+    "profitableShareDelta": 23
+  },
+  {
+    "share": 208,
+    "sharePrice": 2.704,
+    "netFees": 0.27040000000000003,
+    "buyPrice": 2.9744,
+    "sellPrice": 2.4102562499999998,
+    "profitableShare": 231,
+    "profitableShareDelta": 23
+  },
+  {
+    "share": 209,
+    "sharePrice": 2.7300625,
+    "netFees": 0.27300625,
+    "buyPrice": 3.0030687499999997,
+    "sellPrice": 2.4336,
+    "profitableShare": 233,
+    "profitableShareDelta": 24
+  },
+  {
+    "share": 210,
+    "sharePrice": 2.75625,
+    "netFees": 0.275625,
+    "buyPrice": 3.0318750000000003,
+    "sellPrice": 2.45705625,
+    "profitableShare": 234,
+    "profitableShareDelta": 24
+  },
+  {
+    "share": 211,
+    "sharePrice": 2.7825625,
+    "netFees": 0.27825625000000004,
+    "buyPrice": 3.06081875,
+    "sellPrice": 2.480625,
+    "profitableShare": 235,
+    "profitableShareDelta": 24
+  },
+  {
+    "share": 212,
+    "sharePrice": 2.809,
+    "netFees": 0.28090000000000004,
+    "buyPrice": 3.0899,
+    "sellPrice": 2.50430625,
+    "profitableShare": 236,
+    "profitableShareDelta": 24
+  },
+  {
+    "share": 213,
+    "sharePrice": 2.8355625,
+    "netFees": 0.28355625,
+    "buyPrice": 3.11911875,
+    "sellPrice": 2.5281000000000002,
+    "profitableShare": 237,
+    "profitableShareDelta": 24
+  },
+  {
+    "share": 214,
+    "sharePrice": 2.86225,
+    "netFees": 0.286225,
+    "buyPrice": 3.148475,
+    "sellPrice": 2.55200625,
+    "profitableShare": 238,
+    "profitableShareDelta": 24
+  },
+  {
+    "share": 215,
+    "sharePrice": 2.8890625,
+    "netFees": 0.28890625000000003,
+    "buyPrice": 3.1779687500000002,
+    "sellPrice": 2.576025,
+    "profitableShare": 239,
+    "profitableShareDelta": 24
+  },
+  {
+    "share": 216,
+    "sharePrice": 2.916,
+    "netFees": 0.2916,
+    "buyPrice": 3.2076,
+    "sellPrice": 2.60015625,
+    "profitableShare": 240,
+    "profitableShareDelta": 24
+  },
+  {
+    "share": 217,
+    "sharePrice": 2.9430625,
+    "netFees": 0.29430625,
+    "buyPrice": 3.23736875,
+    "sellPrice": 2.6244,
+    "profitableShare": 241,
+    "profitableShareDelta": 24
+  },
+  {
+    "share": 218,
+    "sharePrice": 2.97025,
+    "netFees": 0.29702500000000004,
+    "buyPrice": 3.267275,
+    "sellPrice": 2.64875625,
+    "profitableShare": 243,
+    "profitableShareDelta": 25
+  },
+  {
+    "share": 219,
+    "sharePrice": 2.9975625,
+    "netFees": 0.29975625,
+    "buyPrice": 3.29731875,
+    "sellPrice": 2.673225,
+    "profitableShare": 244,
+    "profitableShareDelta": 25
+  },
+  {
+    "share": 220,
+    "sharePrice": 3.025,
+    "netFees": 0.3025,
+    "buyPrice": 3.3274999999999997,
+    "sellPrice": 2.6978062499999997,
+    "profitableShare": 245,
+    "profitableShareDelta": 25
+  },
+  {
+    "share": 221,
+    "sharePrice": 3.0525625,
+    "netFees": 0.30525625,
+    "buyPrice": 3.35781875,
+    "sellPrice": 2.7225,
+    "profitableShare": 246,
+    "profitableShareDelta": 25
+  },
+  {
+    "share": 222,
+    "sharePrice": 3.08025,
+    "netFees": 0.308025,
+    "buyPrice": 3.388275,
+    "sellPrice": 2.7473062500000003,
+    "profitableShare": 247,
+    "profitableShareDelta": 25
+  },
+  {
+    "share": 223,
+    "sharePrice": 3.1080625,
+    "netFees": 0.31080625,
+    "buyPrice": 3.41886875,
+    "sellPrice": 2.7722249999999997,
+    "profitableShare": 248,
+    "profitableShareDelta": 25
+  },
+  {
+    "share": 224,
+    "sharePrice": 3.136,
+    "netFees": 0.31360000000000005,
+    "buyPrice": 3.4496,
+    "sellPrice": 2.7972562499999998,
+    "profitableShare": 249,
+    "profitableShareDelta": 25
+  },
+  {
+    "share": 225,
+    "sharePrice": 3.1640625,
+    "netFees": 0.31640625,
+    "buyPrice": 3.48046875,
+    "sellPrice": 2.8224,
+    "profitableShare": 250,
+    "profitableShareDelta": 25
+  },
+  {
+    "share": 226,
+    "sharePrice": 3.19225,
+    "netFees": 0.31922500000000004,
+    "buyPrice": 3.511475,
+    "sellPrice": 2.84765625,
+    "profitableShare": 251,
+    "profitableShareDelta": 25
+  },
+  {
+    "share": 227,
+    "sharePrice": 3.2205625,
+    "netFees": 0.32205625000000004,
+    "buyPrice": 3.5426187500000004,
+    "sellPrice": 2.873025,
+    "profitableShare": 252,
+    "profitableShareDelta": 25
+  },
+  {
+    "share": 228,
+    "sharePrice": 3.249,
+    "netFees": 0.3249,
+    "buyPrice": 3.5739,
+    "sellPrice": 2.89850625,
+    "profitableShare": 254,
+    "profitableShareDelta": 26
+  },
+  {
+    "share": 229,
+    "sharePrice": 3.2775625,
+    "netFees": 0.32775625,
+    "buyPrice": 3.6053187500000003,
+    "sellPrice": 2.9241,
+    "profitableShare": 255,
+    "profitableShareDelta": 26
+  },
+  {
+    "share": 230,
+    "sharePrice": 3.30625,
+    "netFees": 0.330625,
+    "buyPrice": 3.636875,
+    "sellPrice": 2.94980625,
+    "profitableShare": 256,
+    "profitableShareDelta": 26
+  },
+  {
+    "share": 231,
+    "sharePrice": 3.3350625,
+    "netFees": 0.33350625,
+    "buyPrice": 3.66856875,
+    "sellPrice": 2.975625,
+    "profitableShare": 257,
+    "profitableShareDelta": 26
+  },
+  {
+    "share": 232,
+    "sharePrice": 3.364,
+    "netFees": 0.33640000000000003,
+    "buyPrice": 3.7004,
+    "sellPrice": 3.0015562499999997,
+    "profitableShare": 258,
+    "profitableShareDelta": 26
+  },
+  {
+    "share": 233,
+    "sharePrice": 3.3930625,
+    "netFees": 0.33930625000000003,
+    "buyPrice": 3.73236875,
+    "sellPrice": 3.0275999999999996,
+    "profitableShare": 259,
+    "profitableShareDelta": 26
+  },
+  {
+    "share": 234,
+    "sharePrice": 3.42225,
+    "netFees": 0.342225,
+    "buyPrice": 3.764475,
+    "sellPrice": 3.05375625,
+    "profitableShare": 260,
+    "profitableShareDelta": 26
+  },
+  {
+    "share": 235,
+    "sharePrice": 3.4515625,
+    "netFees": 0.34515625000000005,
+    "buyPrice": 3.79671875,
+    "sellPrice": 3.080025,
+    "profitableShare": 261,
+    "profitableShareDelta": 26
+  },
+  {
+    "share": 236,
+    "sharePrice": 3.481,
+    "netFees": 0.3481,
+    "buyPrice": 3.8291,
+    "sellPrice": 3.10640625,
+    "profitableShare": 262,
+    "profitableShareDelta": 26
+  },
+  {
+    "share": 237,
+    "sharePrice": 3.5105625,
+    "netFees": 0.35105625,
+    "buyPrice": 3.86161875,
+    "sellPrice": 3.1329,
+    "profitableShare": 264,
+    "profitableShareDelta": 27
+  },
+  {
+    "share": 238,
+    "sharePrice": 3.54025,
+    "netFees": 0.35402500000000003,
+    "buyPrice": 3.894275,
+    "sellPrice": 3.1595062499999997,
+    "profitableShare": 265,
+    "profitableShareDelta": 27
+  },
+  {
+    "share": 239,
+    "sharePrice": 3.5700625,
+    "netFees": 0.35700625,
+    "buyPrice": 3.92706875,
+    "sellPrice": 3.186225,
+    "profitableShare": 266,
+    "profitableShareDelta": 27
+  },
+  {
+    "share": 240,
+    "sharePrice": 3.6,
+    "netFees": 0.36000000000000004,
+    "buyPrice": 3.96,
+    "sellPrice": 3.21305625,
+    "profitableShare": 267,
+    "profitableShareDelta": 27
+  },
+  {
+    "share": 241,
+    "sharePrice": 3.6300625,
+    "netFees": 0.36300625000000003,
+    "buyPrice": 3.9930687500000004,
+    "sellPrice": 3.24,
+    "profitableShare": 268,
+    "profitableShareDelta": 27
+  },
+  {
+    "share": 242,
+    "sharePrice": 3.66025,
+    "netFees": 0.36602500000000004,
+    "buyPrice": 4.026275,
+    "sellPrice": 3.26705625,
+    "profitableShare": 269,
+    "profitableShareDelta": 27
+  },
+  {
+    "share": 243,
+    "sharePrice": 3.6905625,
+    "netFees": 0.36905625000000003,
+    "buyPrice": 4.05961875,
+    "sellPrice": 3.294225,
+    "profitableShare": 270,
+    "profitableShareDelta": 27
+  },
+  {
+    "share": 244,
+    "sharePrice": 3.721,
+    "netFees": 0.37210000000000004,
+    "buyPrice": 4.0931,
+    "sellPrice": 3.32150625,
+    "profitableShare": 271,
+    "profitableShareDelta": 27
+  },
+  {
+    "share": 245,
+    "sharePrice": 3.7515625,
+    "netFees": 0.37515625,
+    "buyPrice": 4.12671875,
+    "sellPrice": 3.3489,
+    "profitableShare": 272,
+    "profitableShareDelta": 27
+  },
+  {
+    "share": 246,
+    "sharePrice": 3.78225,
+    "netFees": 0.37822500000000003,
+    "buyPrice": 4.160475,
+    "sellPrice": 3.37640625,
+    "profitableShare": 273,
+    "profitableShareDelta": 27
+  },
+  {
+    "share": 247,
+    "sharePrice": 3.8130625,
+    "netFees": 0.38130625,
+    "buyPrice": 4.19436875,
+    "sellPrice": 3.404025,
+    "profitableShare": 275,
+    "profitableShareDelta": 28
+  },
+  {
+    "share": 248,
+    "sharePrice": 3.844,
+    "netFees": 0.3844,
+    "buyPrice": 4.2284,
+    "sellPrice": 3.43175625,
+    "profitableShare": 276,
+    "profitableShareDelta": 28
+  },
+  {
+    "share": 249,
+    "sharePrice": 3.8750625,
+    "netFees": 0.38750625,
+    "buyPrice": 4.26256875,
+    "sellPrice": 3.4596,
+    "profitableShare": 277,
+    "profitableShareDelta": 28
+  },
+  {
+    "share": 250,
+    "sharePrice": 3.90625,
+    "netFees": 0.390625,
+    "buyPrice": 4.296875,
+    "sellPrice": 3.48755625,
+    "profitableShare": 278,
+    "profitableShareDelta": 28
+  },
+  {
+    "share": 251,
+    "sharePrice": 3.9375625,
+    "netFees": 0.39375625000000003,
+    "buyPrice": 4.331318749999999,
+    "sellPrice": 3.515625,
+    "profitableShare": 279,
+    "profitableShareDelta": 28
+  },
+  {
+    "share": 252,
+    "sharePrice": 3.969,
+    "netFees": 0.39690000000000003,
+    "buyPrice": 4.3659,
+    "sellPrice": 3.54380625,
+    "profitableShare": 280,
+    "profitableShareDelta": 28
+  },
+  {
+    "share": 253,
+    "sharePrice": 4.0005625,
+    "netFees": 0.40005625,
+    "buyPrice": 4.40061875,
+    "sellPrice": 3.5721,
+    "profitableShare": 281,
+    "profitableShareDelta": 28
+  },
+  {
+    "share": 254,
+    "sharePrice": 4.03225,
+    "netFees": 0.40322500000000006,
+    "buyPrice": 4.435475,
+    "sellPrice": 3.60050625,
+    "profitableShare": 282,
+    "profitableShareDelta": 28
+  },
+  {
+    "share": 255,
+    "sharePrice": 4.0640625,
+    "netFees": 0.4064062500000001,
+    "buyPrice": 4.47046875,
+    "sellPrice": 3.6290250000000004,
+    "profitableShare": 283,
+    "profitableShareDelta": 28
+  },
+  {
+    "share": 256,
+    "sharePrice": 4.096,
+    "netFees": 0.4096,
+    "buyPrice": 4.5056,
+    "sellPrice": 3.6576562500000005,
+    "profitableShare": 285,
+    "profitableShareDelta": 29
+  },
+  {
+    "share": 257,
+    "sharePrice": 4.1280625,
+    "netFees": 0.41280625000000004,
+    "buyPrice": 4.5408687500000005,
+    "sellPrice": 3.6864,
+    "profitableShare": 286,
+    "profitableShareDelta": 29
+  },
+  {
+    "share": 258,
+    "sharePrice": 4.16025,
+    "netFees": 0.416025,
+    "buyPrice": 4.576275,
+    "sellPrice": 3.7152562500000004,
+    "profitableShare": 287,
+    "profitableShareDelta": 29
+  },
+  {
+    "share": 259,
+    "sharePrice": 4.1925625,
+    "netFees": 0.41925625000000005,
+    "buyPrice": 4.61181875,
+    "sellPrice": 3.7442249999999997,
+    "profitableShare": 288,
+    "profitableShareDelta": 29
+  },
+  {
+    "share": 260,
+    "sharePrice": 4.225,
+    "netFees": 0.4225,
+    "buyPrice": 4.6475,
+    "sellPrice": 3.77330625,
+    "profitableShare": 289,
+    "profitableShareDelta": 29
+  },
+  {
+    "share": 261,
+    "sharePrice": 4.2575625,
+    "netFees": 0.42575625,
+    "buyPrice": 4.68331875,
+    "sellPrice": 3.8024999999999998,
+    "profitableShare": 290,
+    "profitableShareDelta": 29
+  },
+  {
+    "share": 262,
+    "sharePrice": 4.29025,
+    "netFees": 0.42902500000000005,
+    "buyPrice": 4.7192750000000006,
+    "sellPrice": 3.8318062499999996,
+    "profitableShare": 291,
+    "profitableShareDelta": 29
+  },
+  {
+    "share": 263,
+    "sharePrice": 4.3230625,
+    "netFees": 0.43230625,
+    "buyPrice": 4.75536875,
+    "sellPrice": 3.861225,
+    "profitableShare": 292,
+    "profitableShareDelta": 29
+  },
+  {
+    "share": 264,
+    "sharePrice": 4.356,
+    "netFees": 0.4356,
+    "buyPrice": 4.7916,
+    "sellPrice": 3.89075625,
+    "profitableShare": 293,
+    "profitableShareDelta": 29
+  },
+  {
+    "share": 265,
+    "sharePrice": 4.3890625,
+    "netFees": 0.43890625,
+    "buyPrice": 4.827968749999999,
+    "sellPrice": 3.9204,
+    "profitableShare": 294,
+    "profitableShareDelta": 29
+  },
+  {
+    "share": 266,
+    "sharePrice": 4.42225,
+    "netFees": 0.44222500000000003,
+    "buyPrice": 4.864475,
+    "sellPrice": 3.9501562499999996,
+    "profitableShare": 296,
+    "profitableShareDelta": 30
+  },
+  {
+    "share": 267,
+    "sharePrice": 4.4555625,
+    "netFees": 0.44555625000000004,
+    "buyPrice": 4.90111875,
+    "sellPrice": 3.980025,
+    "profitableShare": 297,
+    "profitableShareDelta": 30
+  },
+  {
+    "share": 268,
+    "sharePrice": 4.489,
+    "netFees": 0.4489,
+    "buyPrice": 4.9379,
+    "sellPrice": 4.01000625,
+    "profitableShare": 298,
+    "profitableShareDelta": 30
+  },
+  {
+    "share": 269,
+    "sharePrice": 4.5225625,
+    "netFees": 0.45225625,
+    "buyPrice": 4.974818750000001,
+    "sellPrice": 4.0401,
+    "profitableShare": 299,
+    "profitableShareDelta": 30
+  },
+  {
+    "share": 270,
+    "sharePrice": 4.55625,
+    "netFees": 0.45562500000000006,
+    "buyPrice": 5.011875000000001,
+    "sellPrice": 4.07030625,
+    "profitableShare": 300,
+    "profitableShareDelta": 30
+  },
+  {
+    "share": 271,
+    "sharePrice": 4.5900625,
+    "netFees": 0.45900625000000006,
+    "buyPrice": 5.04906875,
+    "sellPrice": 4.100625,
+    "profitableShare": 301,
+    "profitableShareDelta": 30
+  },
+  {
+    "share": 272,
+    "sharePrice": 4.624,
+    "netFees": 0.4624,
+    "buyPrice": 5.086399999999999,
+    "sellPrice": 4.13105625,
+    "profitableShare": 302,
+    "profitableShareDelta": 30
+  },
+  {
+    "share": 273,
+    "sharePrice": 4.6580625,
+    "netFees": 0.46580625,
+    "buyPrice": 5.12386875,
+    "sellPrice": 4.1616,
+    "profitableShare": 303,
+    "profitableShareDelta": 30
+  },
+  {
+    "share": 274,
+    "sharePrice": 4.69225,
+    "netFees": 0.469225,
+    "buyPrice": 5.161474999999999,
+    "sellPrice": 4.19225625,
+    "profitableShare": 304,
+    "profitableShareDelta": 30
+  },
+  {
+    "share": 275,
+    "sharePrice": 4.7265625,
+    "netFees": 0.47265625,
+    "buyPrice": 5.19921875,
+    "sellPrice": 4.223025,
+    "profitableShare": 306,
+    "profitableShareDelta": 31
+  },
+  {
+    "share": 276,
+    "sharePrice": 4.761,
+    "netFees": 0.4761,
+    "buyPrice": 5.2371,
+    "sellPrice": 4.25390625,
+    "profitableShare": 307,
+    "profitableShareDelta": 31
+  },
+  {
+    "share": 277,
+    "sharePrice": 4.7955625,
+    "netFees": 0.47955625,
+    "buyPrice": 5.27511875,
+    "sellPrice": 4.2849,
+    "profitableShare": 308,
+    "profitableShareDelta": 31
+  },
+  {
+    "share": 278,
+    "sharePrice": 4.83025,
+    "netFees": 0.48302500000000004,
+    "buyPrice": 5.313275000000001,
+    "sellPrice": 4.31600625,
+    "profitableShare": 309,
+    "profitableShareDelta": 31
+  },
+  {
+    "share": 279,
+    "sharePrice": 4.8650625,
+    "netFees": 0.48650625,
+    "buyPrice": 5.351568749999999,
+    "sellPrice": 4.347225,
+    "profitableShare": 310,
+    "profitableShareDelta": 31
+  },
+  {
+    "share": 280,
+    "sharePrice": 4.9,
+    "netFees": 0.49000000000000005,
+    "buyPrice": 5.390000000000001,
+    "sellPrice": 4.37855625,
+    "profitableShare": 311,
+    "profitableShareDelta": 31
+  },
+  {
+    "share": 281,
+    "sharePrice": 4.9350625,
+    "netFees": 0.49350625000000004,
+    "buyPrice": 5.42856875,
+    "sellPrice": 4.41,
+    "profitableShare": 312,
+    "profitableShareDelta": 31
+  },
+  {
+    "share": 282,
+    "sharePrice": 4.97025,
+    "netFees": 0.49702500000000005,
+    "buyPrice": 5.467275,
+    "sellPrice": 4.44155625,
+    "profitableShare": 313,
+    "profitableShareDelta": 31
+  },
+  {
+    "share": 283,
+    "sharePrice": 5.0055625,
+    "netFees": 0.50055625,
+    "buyPrice": 5.50611875,
+    "sellPrice": 4.473225,
+    "profitableShare": 314,
+    "profitableShareDelta": 31
+  },
+  {
+    "share": 284,
+    "sharePrice": 5.041,
+    "netFees": 0.5041000000000001,
+    "buyPrice": 5.545100000000001,
+    "sellPrice": 4.50500625,
+    "profitableShare": 315,
+    "profitableShareDelta": 31
+  },
+  {
+    "share": 285,
+    "sharePrice": 5.0765625,
+    "netFees": 0.50765625,
+    "buyPrice": 5.58421875,
+    "sellPrice": 4.5369,
+    "profitableShare": 317,
+    "profitableShareDelta": 32
+  },
+  {
+    "share": 286,
+    "sharePrice": 5.11225,
+    "netFees": 0.511225,
+    "buyPrice": 5.623475000000001,
+    "sellPrice": 4.5689062499999995,
+    "profitableShare": 318,
+    "profitableShareDelta": 32
+  },
+  {
+    "share": 287,
+    "sharePrice": 5.1480625,
+    "netFees": 0.51480625,
+    "buyPrice": 5.66286875,
+    "sellPrice": 4.601025,
+    "profitableShare": 319,
+    "profitableShareDelta": 32
+  },
+  {
+    "share": 288,
+    "sharePrice": 5.184,
+    "netFees": 0.5184000000000001,
+    "buyPrice": 5.7024,
+    "sellPrice": 4.63325625,
+    "profitableShare": 320,
+    "profitableShareDelta": 32
+  },
+  {
+    "share": 289,
+    "sharePrice": 5.2200625,
+    "netFees": 0.52200625,
+    "buyPrice": 5.74206875,
+    "sellPrice": 4.6656,
+    "profitableShare": 321,
+    "profitableShareDelta": 32
+  },
+  {
+    "share": 290,
+    "sharePrice": 5.25625,
+    "netFees": 0.525625,
+    "buyPrice": 5.781874999999999,
+    "sellPrice": 4.6980562500000005,
+    "profitableShare": 322,
+    "profitableShareDelta": 32
+  },
+  {
+    "share": 291,
+    "sharePrice": 5.2925625,
+    "netFees": 0.52925625,
+    "buyPrice": 5.82181875,
+    "sellPrice": 4.730625,
+    "profitableShare": 323,
+    "profitableShareDelta": 32
+  },
+  {
+    "share": 292,
+    "sharePrice": 5.329,
+    "netFees": 0.5329,
+    "buyPrice": 5.8618999999999994,
+    "sellPrice": 4.763306249999999,
+    "profitableShare": 324,
+    "profitableShareDelta": 32
+  },
+  {
+    "share": 293,
+    "sharePrice": 5.3655625,
+    "netFees": 0.5365562500000001,
+    "buyPrice": 5.9021187500000005,
+    "sellPrice": 4.7961,
+    "profitableShare": 325,
+    "profitableShareDelta": 32
+  },
+  {
+    "share": 294,
+    "sharePrice": 5.40225,
+    "netFees": 0.5402250000000001,
+    "buyPrice": 5.942475000000001,
+    "sellPrice": 4.82900625,
+    "profitableShare": 327,
+    "profitableShareDelta": 33
+  },
+  {
+    "share": 295,
+    "sharePrice": 5.4390625,
+    "netFees": 0.54390625,
+    "buyPrice": 5.98296875,
+    "sellPrice": 4.862025,
+    "profitableShare": 328,
+    "profitableShareDelta": 33
+  },
+  {
+    "share": 296,
+    "sharePrice": 5.476,
+    "netFees": 0.5476,
+    "buyPrice": 6.0236,
+    "sellPrice": 4.89515625,
+    "profitableShare": 329,
+    "profitableShareDelta": 33
+  },
+  {
+    "share": 297,
+    "sharePrice": 5.5130625,
+    "netFees": 0.55130625,
+    "buyPrice": 6.06436875,
+    "sellPrice": 4.9284,
+    "profitableShare": 330,
+    "profitableShareDelta": 33
+  },
+  {
+    "share": 298,
+    "sharePrice": 5.55025,
+    "netFees": 0.555025,
+    "buyPrice": 6.105275,
+    "sellPrice": 4.9617562500000005,
+    "profitableShare": 331,
+    "profitableShareDelta": 33
+  },
+  {
+    "share": 299,
+    "sharePrice": 5.5875625,
+    "netFees": 0.55875625,
+    "buyPrice": 6.14631875,
+    "sellPrice": 4.9952250000000005,
+    "profitableShare": 332,
+    "profitableShareDelta": 33
+  },
+  {
+    "share": 300,
+    "sharePrice": 5.625,
+    "netFees": 0.5625,
+    "buyPrice": 6.1875,
+    "sellPrice": 5.02880625,
+    "profitableShare": 333,
+    "profitableShareDelta": 33
+  },
+  {
+    "share": 301,
+    "sharePrice": 5.6625625,
+    "netFees": 0.56625625,
+    "buyPrice": 6.22881875,
+    "sellPrice": 5.0625,
+    "profitableShare": 334,
+    "profitableShareDelta": 33
+  },
+  {
+    "share": 302,
+    "sharePrice": 5.70025,
+    "netFees": 0.570025,
+    "buyPrice": 6.270275,
+    "sellPrice": 5.09630625,
+    "profitableShare": 335,
+    "profitableShareDelta": 33
+  },
+  {
+    "share": 303,
+    "sharePrice": 5.7380625,
+    "netFees": 0.57380625,
+    "buyPrice": 6.3118687499999995,
+    "sellPrice": 5.130224999999999,
+    "profitableShare": 336,
+    "profitableShareDelta": 33
+  },
+  {
+    "share": 304,
+    "sharePrice": 5.776,
+    "netFees": 0.5776,
+    "buyPrice": 6.3536,
+    "sellPrice": 5.16425625,
+    "profitableShare": 338,
+    "profitableShareDelta": 34
+  },
+  {
+    "share": 305,
+    "sharePrice": 5.8140625,
+    "netFees": 0.58140625,
+    "buyPrice": 6.39546875,
+    "sellPrice": 5.1983999999999995,
+    "profitableShare": 339,
+    "profitableShareDelta": 34
+  },
+  {
+    "share": 306,
+    "sharePrice": 5.85225,
+    "netFees": 0.585225,
+    "buyPrice": 6.437475,
+    "sellPrice": 5.232656250000001,
+    "profitableShare": 340,
+    "profitableShareDelta": 34
+  },
+  {
+    "share": 307,
+    "sharePrice": 5.8905625,
+    "netFees": 0.58905625,
+    "buyPrice": 6.479618749999999,
+    "sellPrice": 5.267024999999999,
+    "profitableShare": 341,
+    "profitableShareDelta": 34
+  },
+  {
+    "share": 308,
+    "sharePrice": 5.929,
+    "netFees": 0.5929000000000001,
+    "buyPrice": 6.5219000000000005,
+    "sellPrice": 5.30150625,
+    "profitableShare": 342,
+    "profitableShareDelta": 34
+  },
+  {
+    "share": 309,
+    "sharePrice": 5.9675625,
+    "netFees": 0.59675625,
+    "buyPrice": 6.56431875,
+    "sellPrice": 5.3361,
+    "profitableShare": 343,
+    "profitableShareDelta": 34
+  },
+  {
+    "share": 310,
+    "sharePrice": 6.00625,
+    "netFees": 0.600625,
+    "buyPrice": 6.606875,
+    "sellPrice": 5.370806249999999,
+    "profitableShare": 344,
+    "profitableShareDelta": 34
+  },
+  {
+    "share": 311,
+    "sharePrice": 6.0450625,
+    "netFees": 0.60450625,
+    "buyPrice": 6.64956875,
+    "sellPrice": 5.405625,
+    "profitableShare": 345,
+    "profitableShareDelta": 34
+  },
+  {
+    "share": 312,
+    "sharePrice": 6.084,
+    "netFees": 0.6084,
+    "buyPrice": 6.692399999999999,
+    "sellPrice": 5.44055625,
+    "profitableShare": 346,
+    "profitableShareDelta": 34
+  },
+  {
+    "share": 313,
+    "sharePrice": 6.1230625,
+    "netFees": 0.61230625,
+    "buyPrice": 6.735368749999999,
+    "sellPrice": 5.4756,
+    "profitableShare": 348,
+    "profitableShareDelta": 35
+  },
+  {
+    "share": 314,
+    "sharePrice": 6.16225,
+    "netFees": 0.616225,
+    "buyPrice": 6.778475,
+    "sellPrice": 5.51075625,
+    "profitableShare": 349,
+    "profitableShareDelta": 35
+  },
+  {
+    "share": 315,
+    "sharePrice": 6.2015625,
+    "netFees": 0.62015625,
+    "buyPrice": 6.82171875,
+    "sellPrice": 5.546025,
+    "profitableShare": 350,
+    "profitableShareDelta": 35
+  },
+  {
+    "share": 316,
+    "sharePrice": 6.241,
+    "netFees": 0.6241,
+    "buyPrice": 6.8651,
+    "sellPrice": 5.58140625,
+    "profitableShare": 351,
+    "profitableShareDelta": 35
+  },
+  {
+    "share": 317,
+    "sharePrice": 6.2805625,
+    "netFees": 0.6280562500000001,
+    "buyPrice": 6.9086187500000005,
+    "sellPrice": 5.616899999999999,
+    "profitableShare": 352,
+    "profitableShareDelta": 35
+  },
+  {
+    "share": 318,
+    "sharePrice": 6.32025,
+    "netFees": 0.6320250000000001,
+    "buyPrice": 6.952275,
+    "sellPrice": 5.65250625,
+    "profitableShare": 353,
+    "profitableShareDelta": 35
+  },
+  {
+    "share": 319,
+    "sharePrice": 6.3600625,
+    "netFees": 0.63600625,
+    "buyPrice": 6.99606875,
+    "sellPrice": 5.688224999999999,
+    "profitableShare": 354,
+    "profitableShareDelta": 35
+  },
+  {
+    "share": 320,
+    "sharePrice": 6.4,
+    "netFees": 0.6400000000000001,
+    "buyPrice": 7.040000000000001,
+    "sellPrice": 5.724056249999999,
+    "profitableShare": 355,
+    "profitableShareDelta": 35
+  },
+  {
+    "share": 321,
+    "sharePrice": 6.4400625,
+    "netFees": 0.64400625,
+    "buyPrice": 7.08406875,
+    "sellPrice": 5.76,
+    "profitableShare": 356,
+    "profitableShareDelta": 35
+  },
+  {
+    "share": 322,
+    "sharePrice": 6.48025,
+    "netFees": 0.6480250000000001,
+    "buyPrice": 7.128275,
+    "sellPrice": 5.7960562499999995,
+    "profitableShare": 357,
+    "profitableShareDelta": 35
+  },
+  {
+    "share": 323,
+    "sharePrice": 6.5205625,
+    "netFees": 0.65205625,
+    "buyPrice": 7.17261875,
+    "sellPrice": 5.832224999999999,
+    "profitableShare": 359,
+    "profitableShareDelta": 36
+  },
+  {
+    "share": 324,
+    "sharePrice": 6.561,
+    "netFees": 0.6561,
+    "buyPrice": 7.2171,
+    "sellPrice": 5.868506249999999,
+    "profitableShare": 360,
+    "profitableShareDelta": 36
+  },
+  {
+    "share": 325,
+    "sharePrice": 6.6015625,
+    "netFees": 0.66015625,
+    "buyPrice": 7.26171875,
+    "sellPrice": 5.9049,
+    "profitableShare": 361,
+    "profitableShareDelta": 36
+  },
+  {
+    "share": 326,
+    "sharePrice": 6.64225,
+    "netFees": 0.6642250000000001,
+    "buyPrice": 7.306475,
+    "sellPrice": 5.94140625,
+    "profitableShare": 362,
+    "profitableShareDelta": 36
+  },
+  {
+    "share": 327,
+    "sharePrice": 6.6830625,
+    "netFees": 0.6683062500000001,
+    "buyPrice": 7.351368750000001,
+    "sellPrice": 5.978025,
+    "profitableShare": 363,
+    "profitableShareDelta": 36
+  },
+  {
+    "share": 328,
+    "sharePrice": 6.724,
+    "netFees": 0.6724000000000001,
+    "buyPrice": 7.3964,
+    "sellPrice": 6.01475625,
+    "profitableShare": 364,
+    "profitableShareDelta": 36
+  },
+  {
+    "share": 329,
+    "sharePrice": 6.7650625,
+    "netFees": 0.6765062500000001,
+    "buyPrice": 7.44156875,
+    "sellPrice": 6.0516000000000005,
+    "profitableShare": 365,
+    "profitableShareDelta": 36
+  },
+  {
+    "share": 330,
+    "sharePrice": 6.80625,
+    "netFees": 0.680625,
+    "buyPrice": 7.486875,
+    "sellPrice": 6.08855625,
+    "profitableShare": 366,
+    "profitableShareDelta": 36
+  },
+  {
+    "share": 331,
+    "sharePrice": 6.8475625,
+    "netFees": 0.6847562500000001,
+    "buyPrice": 7.532318750000001,
+    "sellPrice": 6.125625,
+    "profitableShare": 367,
+    "profitableShareDelta": 36
+  },
+  {
+    "share": 332,
+    "sharePrice": 6.889,
+    "netFees": 0.6889000000000001,
+    "buyPrice": 7.5779000000000005,
+    "sellPrice": 6.16280625,
+    "profitableShare": 369,
+    "profitableShareDelta": 37
+  },
+  {
+    "share": 333,
+    "sharePrice": 6.9305625,
+    "netFees": 0.69305625,
+    "buyPrice": 7.6236187499999994,
+    "sellPrice": 6.2001,
+    "profitableShare": 370,
+    "profitableShareDelta": 37
+  },
+  {
+    "share": 334,
+    "sharePrice": 6.97225,
+    "netFees": 0.697225,
+    "buyPrice": 7.669475,
+    "sellPrice": 6.23750625,
+    "profitableShare": 371,
+    "profitableShareDelta": 37
+  },
+  {
+    "share": 335,
+    "sharePrice": 7.0140625,
+    "netFees": 0.70140625,
+    "buyPrice": 7.715468749999999,
+    "sellPrice": 6.275024999999999,
+    "profitableShare": 372,
+    "profitableShareDelta": 37
+  },
+  {
+    "share": 336,
+    "sharePrice": 7.056,
+    "netFees": 0.7056,
+    "buyPrice": 7.7616,
+    "sellPrice": 6.31265625,
+    "profitableShare": 373,
+    "profitableShareDelta": 37
+  },
+  {
+    "share": 337,
+    "sharePrice": 7.0980625,
+    "netFees": 0.7098062500000001,
+    "buyPrice": 7.80786875,
+    "sellPrice": 6.3504000000000005,
+    "profitableShare": 374,
+    "profitableShareDelta": 37
+  },
+  {
+    "share": 338,
+    "sharePrice": 7.14025,
+    "netFees": 0.714025,
+    "buyPrice": 7.854275,
+    "sellPrice": 6.38825625,
+    "profitableShare": 375,
+    "profitableShareDelta": 37
+  },
+  {
+    "share": 339,
+    "sharePrice": 7.1825625,
+    "netFees": 0.71825625,
+    "buyPrice": 7.900818750000001,
+    "sellPrice": 6.426225,
+    "profitableShare": 376,
+    "profitableShareDelta": 37
+  },
+  {
+    "share": 340,
+    "sharePrice": 7.225,
+    "netFees": 0.7225,
+    "buyPrice": 7.9475,
+    "sellPrice": 6.46430625,
+    "profitableShare": 377,
+    "profitableShareDelta": 37
+  },
+  {
+    "share": 341,
+    "sharePrice": 7.2675625,
+    "netFees": 0.7267562500000001,
+    "buyPrice": 7.994318750000001,
+    "sellPrice": 6.5024999999999995,
+    "profitableShare": 378,
+    "profitableShareDelta": 37
+  },
+  {
+    "share": 342,
+    "sharePrice": 7.31025,
+    "netFees": 0.731025,
+    "buyPrice": 8.041275,
+    "sellPrice": 6.54080625,
+    "profitableShare": 380,
+    "profitableShareDelta": 38
+  },
+  {
+    "share": 343,
+    "sharePrice": 7.3530625,
+    "netFees": 0.73530625,
+    "buyPrice": 8.08836875,
+    "sellPrice": 6.579225,
+    "profitableShare": 381,
+    "profitableShareDelta": 38
+  },
+  {
+    "share": 344,
+    "sharePrice": 7.396,
+    "netFees": 0.7396,
+    "buyPrice": 8.1356,
+    "sellPrice": 6.61775625,
+    "profitableShare": 382,
+    "profitableShareDelta": 38
+  },
+  {
+    "share": 345,
+    "sharePrice": 7.4390625,
+    "netFees": 0.7439062500000001,
+    "buyPrice": 8.18296875,
+    "sellPrice": 6.6564,
+    "profitableShare": 383,
+    "profitableShareDelta": 38
+  },
+  {
+    "share": 346,
+    "sharePrice": 7.48225,
+    "netFees": 0.748225,
+    "buyPrice": 8.230475,
+    "sellPrice": 6.69515625,
+    "profitableShare": 384,
+    "profitableShareDelta": 38
+  },
+  {
+    "share": 347,
+    "sharePrice": 7.5255625,
+    "netFees": 0.75255625,
+    "buyPrice": 8.27811875,
+    "sellPrice": 6.734025,
+    "profitableShare": 385,
+    "profitableShareDelta": 38
+  },
+  {
+    "share": 348,
+    "sharePrice": 7.569,
+    "netFees": 0.7569,
+    "buyPrice": 8.3259,
+    "sellPrice": 6.77300625,
+    "profitableShare": 386,
+    "profitableShareDelta": 38
+  },
+  {
+    "share": 349,
+    "sharePrice": 7.6125625,
+    "netFees": 0.7612562500000001,
+    "buyPrice": 8.37381875,
+    "sellPrice": 6.8121,
+    "profitableShare": 387,
+    "profitableShareDelta": 38
+  },
+  {
+    "share": 350,
+    "sharePrice": 7.65625,
+    "netFees": 0.765625,
+    "buyPrice": 8.421875,
+    "sellPrice": 6.85130625,
+    "profitableShare": 388,
+    "profitableShareDelta": 38
+  },
+  {
+    "share": 351,
+    "sharePrice": 7.7000625,
+    "netFees": 0.77000625,
+    "buyPrice": 8.47006875,
+    "sellPrice": 6.890625,
+    "profitableShare": 390,
+    "profitableShareDelta": 39
+  },
+  {
+    "share": 352,
+    "sharePrice": 7.744,
+    "netFees": 0.7744,
+    "buyPrice": 8.5184,
+    "sellPrice": 6.93005625,
+    "profitableShare": 391,
+    "profitableShareDelta": 39
+  },
+  {
+    "share": 353,
+    "sharePrice": 7.7880625,
+    "netFees": 0.77880625,
+    "buyPrice": 8.56686875,
+    "sellPrice": 6.9696,
+    "profitableShare": 392,
+    "profitableShareDelta": 39
+  },
+  {
+    "share": 354,
+    "sharePrice": 7.83225,
+    "netFees": 0.7832250000000001,
+    "buyPrice": 8.615475,
+    "sellPrice": 7.00925625,
+    "profitableShare": 393,
+    "profitableShareDelta": 39
+  },
+  {
+    "share": 355,
+    "sharePrice": 7.8765625,
+    "netFees": 0.7876562500000001,
+    "buyPrice": 8.66421875,
+    "sellPrice": 7.049025,
+    "profitableShare": 394,
+    "profitableShareDelta": 39
+  },
+  {
+    "share": 356,
+    "sharePrice": 7.921,
+    "netFees": 0.7921,
+    "buyPrice": 8.7131,
+    "sellPrice": 7.08890625,
+    "profitableShare": 395,
+    "profitableShareDelta": 39
+  },
+  {
+    "share": 357,
+    "sharePrice": 7.9655625,
+    "netFees": 0.7965562500000001,
+    "buyPrice": 8.762118749999999,
+    "sellPrice": 7.1289,
+    "profitableShare": 396,
+    "profitableShareDelta": 39
+  },
+  {
+    "share": 358,
+    "sharePrice": 8.01025,
+    "netFees": 0.801025,
+    "buyPrice": 8.811274999999998,
+    "sellPrice": 7.16900625,
+    "profitableShare": 397,
+    "profitableShareDelta": 39
+  },
+  {
+    "share": 359,
+    "sharePrice": 8.0550625,
+    "netFees": 0.8055062500000001,
+    "buyPrice": 8.86056875,
+    "sellPrice": 7.209224999999999,
+    "profitableShare": 398,
+    "profitableShareDelta": 39
+  },
+  {
+    "share": 360,
+    "sharePrice": 8.1,
+    "netFees": 0.81,
+    "buyPrice": 8.91,
+    "sellPrice": 7.2495562499999995,
+    "profitableShare": 399,
+    "profitableShareDelta": 39
+  },
+  {
+    "share": 361,
+    "sharePrice": 8.1450625,
+    "netFees": 0.81450625,
+    "buyPrice": 8.959568749999999,
+    "sellPrice": 7.289999999999999,
+    "profitableShare": 401,
+    "profitableShareDelta": 40
+  },
+  {
+    "share": 362,
+    "sharePrice": 8.19025,
+    "netFees": 0.8190250000000001,
+    "buyPrice": 9.009275,
+    "sellPrice": 7.33055625,
+    "profitableShare": 402,
+    "profitableShareDelta": 40
+  },
+  {
+    "share": 363,
+    "sharePrice": 8.2355625,
+    "netFees": 0.8235562500000001,
+    "buyPrice": 9.05911875,
+    "sellPrice": 7.371225000000001,
+    "profitableShare": 403,
+    "profitableShareDelta": 40
+  },
+  {
+    "share": 364,
+    "sharePrice": 8.281,
+    "netFees": 0.8281000000000001,
+    "buyPrice": 9.109100000000002,
+    "sellPrice": 7.41200625,
+    "profitableShare": 404,
+    "profitableShareDelta": 40
+  },
+  {
+    "share": 365,
+    "sharePrice": 8.3265625,
+    "netFees": 0.83265625,
+    "buyPrice": 9.159218749999999,
+    "sellPrice": 7.4529000000000005,
+    "profitableShare": 405,
+    "profitableShareDelta": 40
+  },
+  {
+    "share": 366,
+    "sharePrice": 8.37225,
+    "netFees": 0.837225,
+    "buyPrice": 9.209475,
+    "sellPrice": 7.493906249999999,
+    "profitableShare": 406,
+    "profitableShareDelta": 40
+  },
+  {
+    "share": 367,
+    "sharePrice": 8.4180625,
+    "netFees": 0.84180625,
+    "buyPrice": 9.259868749999999,
+    "sellPrice": 7.535024999999999,
+    "profitableShare": 407,
+    "profitableShareDelta": 40
+  },
+  {
+    "share": 368,
+    "sharePrice": 8.464,
+    "netFees": 0.8464,
+    "buyPrice": 9.310400000000001,
+    "sellPrice": 7.576256249999999,
+    "profitableShare": 408,
+    "profitableShareDelta": 40
+  },
+  {
+    "share": 369,
+    "sharePrice": 8.5100625,
+    "netFees": 0.8510062500000001,
+    "buyPrice": 9.36106875,
+    "sellPrice": 7.6176,
+    "profitableShare": 409,
+    "profitableShareDelta": 40
+  },
+  {
+    "share": 370,
+    "sharePrice": 8.55625,
+    "netFees": 0.8556250000000001,
+    "buyPrice": 9.411875,
+    "sellPrice": 7.65905625,
+    "profitableShare": 411,
+    "profitableShareDelta": 41
+  },
+  {
+    "share": 371,
+    "sharePrice": 8.6025625,
+    "netFees": 0.86025625,
+    "buyPrice": 9.46281875,
+    "sellPrice": 7.7006250000000005,
+    "profitableShare": 412,
+    "profitableShareDelta": 41
+  },
+  {
+    "share": 372,
+    "sharePrice": 8.649,
+    "netFees": 0.8649,
+    "buyPrice": 9.5139,
+    "sellPrice": 7.7423062499999995,
+    "profitableShare": 413,
+    "profitableShareDelta": 41
+  },
+  {
+    "share": 373,
+    "sharePrice": 8.6955625,
+    "netFees": 0.86955625,
+    "buyPrice": 9.56511875,
+    "sellPrice": 7.784099999999999,
+    "profitableShare": 414,
+    "profitableShareDelta": 41
+  },
+  {
+    "share": 374,
+    "sharePrice": 8.74225,
+    "netFees": 0.874225,
+    "buyPrice": 9.616475000000001,
+    "sellPrice": 7.826006249999999,
+    "profitableShare": 415,
+    "profitableShareDelta": 41
+  },
+  {
+    "share": 375,
+    "sharePrice": 8.7890625,
+    "netFees": 0.87890625,
+    "buyPrice": 9.66796875,
+    "sellPrice": 7.868025,
+    "profitableShare": 416,
+    "profitableShareDelta": 41
+  },
+  {
+    "share": 376,
+    "sharePrice": 8.836,
+    "netFees": 0.8836,
+    "buyPrice": 9.7196,
+    "sellPrice": 7.91015625,
+    "profitableShare": 417,
+    "profitableShareDelta": 41
+  },
+  {
+    "share": 377,
+    "sharePrice": 8.8830625,
+    "netFees": 0.88830625,
+    "buyPrice": 9.771368749999999,
+    "sellPrice": 7.9524,
+    "profitableShare": 418,
+    "profitableShareDelta": 41
+  },
+  {
+    "share": 378,
+    "sharePrice": 8.93025,
+    "netFees": 0.893025,
+    "buyPrice": 9.823274999999999,
+    "sellPrice": 7.994756249999999,
+    "profitableShare": 419,
+    "profitableShareDelta": 41
+  },
+  {
+    "share": 379,
+    "sharePrice": 8.9775625,
+    "netFees": 0.89775625,
+    "buyPrice": 9.87531875,
+    "sellPrice": 8.037225,
+    "profitableShare": 421,
+    "profitableShareDelta": 42
+  },
+  {
+    "share": 380,
+    "sharePrice": 9.025,
+    "netFees": 0.9025000000000001,
+    "buyPrice": 9.9275,
+    "sellPrice": 8.079806249999999,
+    "profitableShare": 422,
+    "profitableShareDelta": 42
+  },
+  {
+    "share": 381,
+    "sharePrice": 9.0725625,
+    "netFees": 0.9072562500000001,
+    "buyPrice": 9.97981875,
+    "sellPrice": 8.1225,
+    "profitableShare": 423,
+    "profitableShareDelta": 42
+  },
+  {
+    "share": 382,
+    "sharePrice": 9.12025,
+    "netFees": 0.9120250000000001,
+    "buyPrice": 10.032275,
+    "sellPrice": 8.16530625,
+    "profitableShare": 424,
+    "profitableShareDelta": 42
+  },
+  {
+    "share": 383,
+    "sharePrice": 9.1680625,
+    "netFees": 0.91680625,
+    "buyPrice": 10.08486875,
+    "sellPrice": 8.208225,
+    "profitableShare": 425,
+    "profitableShareDelta": 42
+  },
+  {
+    "share": 384,
+    "sharePrice": 9.216,
+    "netFees": 0.9216,
+    "buyPrice": 10.137599999999999,
+    "sellPrice": 8.251256249999999,
+    "profitableShare": 426,
+    "profitableShareDelta": 42
+  },
+  {
+    "share": 385,
+    "sharePrice": 9.2640625,
+    "netFees": 0.92640625,
+    "buyPrice": 10.190468749999999,
+    "sellPrice": 8.2944,
+    "profitableShare": 427,
+    "profitableShareDelta": 42
+  },
+  {
+    "share": 386,
+    "sharePrice": 9.31225,
+    "netFees": 0.9312250000000001,
+    "buyPrice": 10.243475,
+    "sellPrice": 8.33765625,
+    "profitableShare": 428,
+    "profitableShareDelta": 42
+  },
+  {
+    "share": 387,
+    "sharePrice": 9.3605625,
+    "netFees": 0.93605625,
+    "buyPrice": 10.29661875,
+    "sellPrice": 8.381025000000001,
+    "profitableShare": 429,
+    "profitableShareDelta": 42
+  },
+  {
+    "share": 388,
+    "sharePrice": 9.409,
+    "netFees": 0.9409000000000001,
+    "buyPrice": 10.349900000000002,
+    "sellPrice": 8.42450625,
+    "profitableShare": 430,
+    "profitableShareDelta": 42
+  },
+  {
+    "share": 389,
+    "sharePrice": 9.4575625,
+    "netFees": 0.9457562500000001,
+    "buyPrice": 10.40331875,
+    "sellPrice": 8.4681,
+    "profitableShare": 432,
+    "profitableShareDelta": 43
+  },
+  {
+    "share": 390,
+    "sharePrice": 9.50625,
+    "netFees": 0.950625,
+    "buyPrice": 10.456875,
+    "sellPrice": 8.51180625,
+    "profitableShare": 433,
+    "profitableShareDelta": 43
+  },
+  {
+    "share": 391,
+    "sharePrice": 9.5550625,
+    "netFees": 0.95550625,
+    "buyPrice": 10.510568750000001,
+    "sellPrice": 8.555625,
+    "profitableShare": 434,
+    "profitableShareDelta": 43
+  },
+  {
+    "share": 392,
+    "sharePrice": 9.604,
+    "netFees": 0.9603999999999999,
+    "buyPrice": 10.5644,
+    "sellPrice": 8.59955625,
+    "profitableShare": 435,
+    "profitableShareDelta": 43
+  },
+  {
+    "share": 393,
+    "sharePrice": 9.6530625,
+    "netFees": 0.9653062500000001,
+    "buyPrice": 10.61836875,
+    "sellPrice": 8.6436,
+    "profitableShare": 436,
+    "profitableShareDelta": 43
+  },
+  {
+    "share": 394,
+    "sharePrice": 9.70225,
+    "netFees": 0.970225,
+    "buyPrice": 10.672474999999999,
+    "sellPrice": 8.687756250000001,
+    "profitableShare": 437,
+    "profitableShareDelta": 43
+  },
+  {
+    "share": 395,
+    "sharePrice": 9.7515625,
+    "netFees": 0.9751562500000001,
+    "buyPrice": 10.72671875,
+    "sellPrice": 8.732025,
+    "profitableShare": 438,
+    "profitableShareDelta": 43
+  },
+  {
+    "share": 396,
+    "sharePrice": 9.801,
+    "netFees": 0.9801000000000001,
+    "buyPrice": 10.7811,
+    "sellPrice": 8.77640625,
+    "profitableShare": 439,
+    "profitableShareDelta": 43
+  },
+  {
+    "share": 397,
+    "sharePrice": 9.8505625,
+    "netFees": 0.9850562500000001,
+    "buyPrice": 10.83561875,
+    "sellPrice": 8.8209,
+    "profitableShare": 440,
+    "profitableShareDelta": 43
+  },
+  {
+    "share": 398,
+    "sharePrice": 9.90025,
+    "netFees": 0.990025,
+    "buyPrice": 10.890274999999999,
+    "sellPrice": 8.865506250000001,
+    "profitableShare": 442,
+    "profitableShareDelta": 44
+  },
+  {
+    "share": 399,
+    "sharePrice": 9.9500625,
+    "netFees": 0.99500625,
+    "buyPrice": 10.945068749999999,
+    "sellPrice": 8.910225,
+    "profitableShare": 443,
+    "profitableShareDelta": 44
+  },
+  {
+    "share": 400,
+    "sharePrice": 10,
+    "netFees": 1,
+    "buyPrice": 11,
+    "sellPrice": 8.95505625,
+    "profitableShare": 444,
+    "profitableShareDelta": 44
+  },
+  {
+    "share": 401,
+    "sharePrice": 10.0500625,
+    "netFees": 1.0050062499999999,
+    "buyPrice": 11.055068749999998,
+    "sellPrice": 9,
+    "profitableShare": 445,
+    "profitableShareDelta": 44
+  },
+  {
+    "share": 402,
+    "sharePrice": 10.10025,
+    "netFees": 1.0100250000000002,
+    "buyPrice": 11.110275000000001,
+    "sellPrice": 9.04505625,
+    "profitableShare": 446,
+    "profitableShareDelta": 44
+  },
+  {
+    "share": 403,
+    "sharePrice": 10.1505625,
+    "netFees": 1.01505625,
+    "buyPrice": 11.16561875,
+    "sellPrice": 9.090225,
+    "profitableShare": 447,
+    "profitableShareDelta": 44
+  },
+  {
+    "share": 404,
+    "sharePrice": 10.201,
+    "netFees": 1.0201,
+    "buyPrice": 11.2211,
+    "sellPrice": 9.135506249999999,
+    "profitableShare": 448,
+    "profitableShareDelta": 44
+  },
+  {
+    "share": 405,
+    "sharePrice": 10.2515625,
+    "netFees": 1.02515625,
+    "buyPrice": 11.27671875,
+    "sellPrice": 9.180900000000001,
+    "profitableShare": 449,
+    "profitableShareDelta": 44
+  },
+  {
+    "share": 406,
+    "sharePrice": 10.30225,
+    "netFees": 1.0302250000000002,
+    "buyPrice": 11.332475,
+    "sellPrice": 9.22640625,
+    "profitableShare": 450,
+    "profitableShareDelta": 44
+  },
+  {
+    "share": 407,
+    "sharePrice": 10.3530625,
+    "netFees": 1.03530625,
+    "buyPrice": 11.38836875,
+    "sellPrice": 9.272025000000001,
+    "profitableShare": 451,
+    "profitableShareDelta": 44
+  },
+  {
+    "share": 408,
+    "sharePrice": 10.404,
+    "netFees": 1.0404,
+    "buyPrice": 11.4444,
+    "sellPrice": 9.31775625,
+    "profitableShare": 453,
+    "profitableShareDelta": 45
+  },
+  {
+    "share": 409,
+    "sharePrice": 10.4550625,
+    "netFees": 1.04550625,
+    "buyPrice": 11.500568750000001,
+    "sellPrice": 9.3636,
+    "profitableShare": 454,
+    "profitableShareDelta": 45
+  },
+  {
+    "share": 410,
+    "sharePrice": 10.50625,
+    "netFees": 1.050625,
+    "buyPrice": 11.556875,
+    "sellPrice": 9.40955625,
+    "profitableShare": 455,
+    "profitableShareDelta": 45
+  },
+  {
+    "share": 411,
+    "sharePrice": 10.5575625,
+    "netFees": 1.05575625,
+    "buyPrice": 11.61331875,
+    "sellPrice": 9.455625,
+    "profitableShare": 456,
+    "profitableShareDelta": 45
+  },
+  {
+    "share": 412,
+    "sharePrice": 10.609,
+    "netFees": 1.0609,
+    "buyPrice": 11.6699,
+    "sellPrice": 9.50180625,
+    "profitableShare": 457,
+    "profitableShareDelta": 45
+  },
+  {
+    "share": 413,
+    "sharePrice": 10.6605625,
+    "netFees": 1.06605625,
+    "buyPrice": 11.72661875,
+    "sellPrice": 9.5481,
+    "profitableShare": 458,
+    "profitableShareDelta": 45
+  },
+  {
+    "share": 414,
+    "sharePrice": 10.71225,
+    "netFees": 1.0712249999999999,
+    "buyPrice": 11.783475,
+    "sellPrice": 9.594506249999998,
+    "profitableShare": 459,
+    "profitableShareDelta": 45
+  },
+  {
+    "share": 415,
+    "sharePrice": 10.7640625,
+    "netFees": 1.07640625,
+    "buyPrice": 11.84046875,
+    "sellPrice": 9.641024999999999,
+    "profitableShare": 460,
+    "profitableShareDelta": 45
+  },
+  {
+    "share": 416,
+    "sharePrice": 10.816,
+    "netFees": 1.0816000000000001,
+    "buyPrice": 11.8976,
+    "sellPrice": 9.68765625,
+    "profitableShare": 461,
+    "profitableShareDelta": 45
+  },
+  {
+    "share": 417,
+    "sharePrice": 10.8680625,
+    "netFees": 1.0868062500000002,
+    "buyPrice": 11.954868750000001,
+    "sellPrice": 9.7344,
+    "profitableShare": 463,
+    "profitableShareDelta": 46
+  },
+  {
+    "share": 418,
+    "sharePrice": 10.92025,
+    "netFees": 1.092025,
+    "buyPrice": 12.012274999999999,
+    "sellPrice": 9.78125625,
+    "profitableShare": 464,
+    "profitableShareDelta": 46
+  },
+  {
+    "share": 419,
+    "sharePrice": 10.9725625,
+    "netFees": 1.09725625,
+    "buyPrice": 12.06981875,
+    "sellPrice": 9.828225,
+    "profitableShare": 465,
+    "profitableShareDelta": 46
+  },
+  {
+    "share": 420,
+    "sharePrice": 11.025,
+    "netFees": 1.1025,
+    "buyPrice": 12.127500000000001,
+    "sellPrice": 9.875306250000001,
+    "profitableShare": 466,
+    "profitableShareDelta": 46
+  },
+  {
+    "share": 421,
+    "sharePrice": 11.0775625,
+    "netFees": 1.1077562500000002,
+    "buyPrice": 12.18531875,
+    "sellPrice": 9.9225,
+    "profitableShare": 467,
+    "profitableShareDelta": 46
+  },
+  {
+    "share": 422,
+    "sharePrice": 11.13025,
+    "netFees": 1.1130250000000002,
+    "buyPrice": 12.243275,
+    "sellPrice": 9.969806250000001,
+    "profitableShare": 468,
+    "profitableShareDelta": 46
+  },
+  {
+    "share": 423,
+    "sharePrice": 11.1830625,
+    "netFees": 1.11830625,
+    "buyPrice": 12.30136875,
+    "sellPrice": 10.017225,
+    "profitableShare": 469,
+    "profitableShareDelta": 46
+  },
+  {
+    "share": 424,
+    "sharePrice": 11.236,
+    "netFees": 1.1236000000000002,
+    "buyPrice": 12.3596,
+    "sellPrice": 10.06475625,
+    "profitableShare": 470,
+    "profitableShareDelta": 46
+  },
+  {
+    "share": 425,
+    "sharePrice": 11.2890625,
+    "netFees": 1.12890625,
+    "buyPrice": 12.41796875,
+    "sellPrice": 10.112400000000001,
+    "profitableShare": 471,
+    "profitableShareDelta": 46
+  },
+  {
+    "share": 426,
+    "sharePrice": 11.34225,
+    "netFees": 1.134225,
+    "buyPrice": 12.476475,
+    "sellPrice": 10.16015625,
+    "profitableShare": 472,
+    "profitableShareDelta": 46
+  },
+  {
+    "share": 427,
+    "sharePrice": 11.3955625,
+    "netFees": 1.13955625,
+    "buyPrice": 12.53511875,
+    "sellPrice": 10.208025,
+    "profitableShare": 474,
+    "profitableShareDelta": 47
+  },
+  {
+    "share": 428,
+    "sharePrice": 11.449,
+    "netFees": 1.1449,
+    "buyPrice": 12.5939,
+    "sellPrice": 10.25600625,
+    "profitableShare": 475,
+    "profitableShareDelta": 47
+  },
+  {
+    "share": 429,
+    "sharePrice": 11.5025625,
+    "netFees": 1.15025625,
+    "buyPrice": 12.65281875,
+    "sellPrice": 10.3041,
+    "profitableShare": 476,
+    "profitableShareDelta": 47
+  },
+  {
+    "share": 430,
+    "sharePrice": 11.55625,
+    "netFees": 1.1556250000000001,
+    "buyPrice": 12.711875000000001,
+    "sellPrice": 10.35230625,
+    "profitableShare": 477,
+    "profitableShareDelta": 47
+  },
+  {
+    "share": 431,
+    "sharePrice": 11.6100625,
+    "netFees": 1.16100625,
+    "buyPrice": 12.77106875,
+    "sellPrice": 10.400625,
+    "profitableShare": 478,
+    "profitableShareDelta": 47
+  },
+  {
+    "share": 432,
+    "sharePrice": 11.664,
+    "netFees": 1.1664,
+    "buyPrice": 12.8304,
+    "sellPrice": 10.44905625,
+    "profitableShare": 479,
+    "profitableShareDelta": 47
+  },
+  {
+    "share": 433,
+    "sharePrice": 11.7180625,
+    "netFees": 1.1718062500000002,
+    "buyPrice": 12.88986875,
+    "sellPrice": 10.4976,
+    "profitableShare": 480,
+    "profitableShareDelta": 47
+  },
+  {
+    "share": 434,
+    "sharePrice": 11.77225,
+    "netFees": 1.177225,
+    "buyPrice": 12.949475,
+    "sellPrice": 10.54625625,
+    "profitableShare": 481,
+    "profitableShareDelta": 47
+  },
+  {
+    "share": 435,
+    "sharePrice": 11.8265625,
+    "netFees": 1.18265625,
+    "buyPrice": 13.009218749999999,
+    "sellPrice": 10.595025,
+    "profitableShare": 482,
+    "profitableShareDelta": 47
+  },
+  {
+    "share": 436,
+    "sharePrice": 11.881,
+    "netFees": 1.1881000000000002,
+    "buyPrice": 13.0691,
+    "sellPrice": 10.64390625,
+    "profitableShare": 484,
+    "profitableShareDelta": 48
+  },
+  {
+    "share": 437,
+    "sharePrice": 11.9355625,
+    "netFees": 1.19355625,
+    "buyPrice": 13.12911875,
+    "sellPrice": 10.6929,
+    "profitableShare": 485,
+    "profitableShareDelta": 48
+  },
+  {
+    "share": 438,
+    "sharePrice": 11.99025,
+    "netFees": 1.199025,
+    "buyPrice": 13.189275,
+    "sellPrice": 10.74200625,
+    "profitableShare": 486,
+    "profitableShareDelta": 48
+  },
+  {
+    "share": 439,
+    "sharePrice": 12.0450625,
+    "netFees": 1.2045062500000001,
+    "buyPrice": 13.24956875,
+    "sellPrice": 10.791224999999999,
+    "profitableShare": 487,
+    "profitableShareDelta": 48
+  },
+  {
+    "share": 440,
+    "sharePrice": 12.1,
+    "netFees": 1.21,
+    "buyPrice": 13.309999999999999,
+    "sellPrice": 10.84055625,
+    "profitableShare": 488,
+    "profitableShareDelta": 48
+  },
+  {
+    "share": 441,
+    "sharePrice": 12.1550625,
+    "netFees": 1.21550625,
+    "buyPrice": 13.37056875,
+    "sellPrice": 10.89,
+    "profitableShare": 489,
+    "profitableShareDelta": 48
+  },
+  {
+    "share": 442,
+    "sharePrice": 12.21025,
+    "netFees": 1.221025,
+    "buyPrice": 13.431275,
+    "sellPrice": 10.939556249999999,
+    "profitableShare": 490,
+    "profitableShareDelta": 48
+  },
+  {
+    "share": 443,
+    "sharePrice": 12.2655625,
+    "netFees": 1.22655625,
+    "buyPrice": 13.49211875,
+    "sellPrice": 10.989225000000001,
+    "profitableShare": 491,
+    "profitableShareDelta": 48
+  },
+  {
+    "share": 444,
+    "sharePrice": 12.321,
+    "netFees": 1.2321,
+    "buyPrice": 13.5531,
+    "sellPrice": 11.03900625,
+    "profitableShare": 492,
+    "profitableShareDelta": 48
+  },
+  {
+    "share": 445,
+    "sharePrice": 12.3765625,
+    "netFees": 1.2376562500000001,
+    "buyPrice": 13.614218750000001,
+    "sellPrice": 11.088899999999999,
+    "profitableShare": 493,
+    "profitableShareDelta": 48
+  },
+  {
+    "share": 446,
+    "sharePrice": 12.43225,
+    "netFees": 1.243225,
+    "buyPrice": 13.675475,
+    "sellPrice": 11.13890625,
+    "profitableShare": 495,
+    "profitableShareDelta": 49
+  },
+  {
+    "share": 447,
+    "sharePrice": 12.4880625,
+    "netFees": 1.2488062500000001,
+    "buyPrice": 13.73686875,
+    "sellPrice": 11.189024999999999,
+    "profitableShare": 496,
+    "profitableShareDelta": 49
+  },
+  {
+    "share": 448,
+    "sharePrice": 12.544,
+    "netFees": 1.2544000000000002,
+    "buyPrice": 13.7984,
+    "sellPrice": 11.23925625,
+    "profitableShare": 497,
+    "profitableShareDelta": 49
+  },
+  {
+    "share": 449,
+    "sharePrice": 12.6000625,
+    "netFees": 1.26000625,
+    "buyPrice": 13.86006875,
+    "sellPrice": 11.2896,
+    "profitableShare": 498,
+    "profitableShareDelta": 49
+  },
+  {
+    "share": 450,
+    "sharePrice": 12.65625,
+    "netFees": 1.265625,
+    "buyPrice": 13.921875,
+    "sellPrice": 11.34005625,
+    "profitableShare": 499,
+    "profitableShareDelta": 49
+  },
+  {
+    "share": 451,
+    "sharePrice": 12.7125625,
+    "netFees": 1.2712562500000002,
+    "buyPrice": 13.983818750000001,
+    "sellPrice": 11.390625,
+    "profitableShare": 0,
+    "profitableShareDelta": 0
+  },
+  {
+    "share": 452,
+    "sharePrice": 12.769,
+    "netFees": 1.2769000000000001,
+    "buyPrice": 14.0459,
+    "sellPrice": 11.44130625,
+    "profitableShare": 0,
+    "profitableShareDelta": 0
+  },
+  {
+    "share": 453,
+    "sharePrice": 12.8255625,
+    "netFees": 1.28255625,
+    "buyPrice": 14.108118750000001,
+    "sellPrice": 11.4921,
+    "profitableShare": 0,
+    "profitableShareDelta": 0
+  },
+  {
+    "share": 454,
+    "sharePrice": 12.88225,
+    "netFees": 1.2882250000000002,
+    "buyPrice": 14.170475000000001,
+    "sellPrice": 11.54300625,
+    "profitableShare": 0,
+    "profitableShareDelta": 0
+  },
+  {
+    "share": 455,
+    "sharePrice": 12.9390625,
+    "netFees": 1.29390625,
+    "buyPrice": 14.232968750000001,
+    "sellPrice": 11.594025,
+    "profitableShare": 0,
+    "profitableShareDelta": 0
+  },
+  {
+    "share": 456,
+    "sharePrice": 12.996,
+    "netFees": 1.2996,
+    "buyPrice": 14.2956,
+    "sellPrice": 11.64515625,
+    "profitableShare": 0,
+    "profitableShareDelta": 0
+  },
+  {
+    "share": 457,
+    "sharePrice": 13.0530625,
+    "netFees": 1.3053062500000001,
+    "buyPrice": 14.35836875,
+    "sellPrice": 11.6964,
+    "profitableShare": 0,
+    "profitableShareDelta": 0
+  },
+  {
+    "share": 458,
+    "sharePrice": 13.11025,
+    "netFees": 1.311025,
+    "buyPrice": 14.421275000000001,
+    "sellPrice": 11.747756249999998,
+    "profitableShare": 0,
+    "profitableShareDelta": 0
+  },
+  {
+    "share": 459,
+    "sharePrice": 13.1675625,
+    "netFees": 1.31675625,
+    "buyPrice": 14.48431875,
+    "sellPrice": 11.799225,
+    "profitableShare": 0,
+    "profitableShareDelta": 0
+  },
+  {
+    "share": 460,
+    "sharePrice": 13.225,
+    "netFees": 1.3225,
+    "buyPrice": 14.5475,
+    "sellPrice": 11.850806250000002,
+    "profitableShare": 0,
+    "profitableShareDelta": 0
+  },
+  {
+    "share": 461,
+    "sharePrice": 13.2825625,
+    "netFees": 1.32825625,
+    "buyPrice": 14.61081875,
+    "sellPrice": 11.9025,
+    "profitableShare": 0,
+    "profitableShareDelta": 0
+  },
+  {
+    "share": 462,
+    "sharePrice": 13.34025,
+    "netFees": 1.334025,
+    "buyPrice": 14.674275,
+    "sellPrice": 11.954306249999998,
+    "profitableShare": 0,
+    "profitableShareDelta": 0
+  },
+  {
+    "share": 463,
+    "sharePrice": 13.3980625,
+    "netFees": 1.33980625,
+    "buyPrice": 14.73786875,
+    "sellPrice": 12.006224999999999,
+    "profitableShare": 0,
+    "profitableShareDelta": 0
+  },
+  {
+    "share": 464,
+    "sharePrice": 13.456,
+    "netFees": 1.3456000000000001,
+    "buyPrice": 14.8016,
+    "sellPrice": 12.05825625,
+    "profitableShare": 0,
+    "profitableShareDelta": 0
+  },
+  {
+    "share": 465,
+    "sharePrice": 13.5140625,
+    "netFees": 1.3514062500000001,
+    "buyPrice": 14.86546875,
+    "sellPrice": 12.110399999999998,
+    "profitableShare": 0,
+    "profitableShareDelta": 0
+  },
+  {
+    "share": 466,
+    "sharePrice": 13.57225,
+    "netFees": 1.3572250000000001,
+    "buyPrice": 14.929475,
+    "sellPrice": 12.16265625,
+    "profitableShare": 0,
+    "profitableShareDelta": 0
+  },
+  {
+    "share": 467,
+    "sharePrice": 13.6305625,
+    "netFees": 1.36305625,
+    "buyPrice": 14.99361875,
+    "sellPrice": 12.215025,
+    "profitableShare": 0,
+    "profitableShareDelta": 0
+  },
+  {
+    "share": 468,
+    "sharePrice": 13.689,
+    "netFees": 1.3689,
+    "buyPrice": 15.0579,
+    "sellPrice": 12.26750625,
+    "profitableShare": 0,
+    "profitableShareDelta": 0
+  },
+  {
+    "share": 469,
+    "sharePrice": 13.7475625,
+    "netFees": 1.3747562500000001,
+    "buyPrice": 15.122318750000002,
+    "sellPrice": 12.3201,
+    "profitableShare": 0,
+    "profitableShareDelta": 0
+  },
+  {
+    "share": 470,
+    "sharePrice": 13.80625,
+    "netFees": 1.3806250000000002,
+    "buyPrice": 15.186875,
+    "sellPrice": 12.37280625,
+    "profitableShare": 0,
+    "profitableShareDelta": 0
+  },
+  {
+    "share": 471,
+    "sharePrice": 13.8650625,
+    "netFees": 1.38650625,
+    "buyPrice": 15.25156875,
+    "sellPrice": 12.425625,
+    "profitableShare": 0,
+    "profitableShareDelta": 0
+  },
+  {
+    "share": 472,
+    "sharePrice": 13.924,
+    "netFees": 1.3924,
+    "buyPrice": 15.3164,
+    "sellPrice": 12.47855625,
+    "profitableShare": 0,
+    "profitableShareDelta": 0
+  },
+  {
+    "share": 473,
+    "sharePrice": 13.9830625,
+    "netFees": 1.39830625,
+    "buyPrice": 15.38136875,
+    "sellPrice": 12.5316,
+    "profitableShare": 0,
+    "profitableShareDelta": 0
+  },
+  {
+    "share": 474,
+    "sharePrice": 14.04225,
+    "netFees": 1.404225,
+    "buyPrice": 15.446475,
+    "sellPrice": 12.584756250000002,
+    "profitableShare": 0,
+    "profitableShareDelta": 0
+  },
+  {
+    "share": 475,
+    "sharePrice": 14.1015625,
+    "netFees": 1.41015625,
+    "buyPrice": 15.51171875,
+    "sellPrice": 12.638024999999999,
+    "profitableShare": 0,
+    "profitableShareDelta": 0
+  },
+  {
+    "share": 476,
+    "sharePrice": 14.161,
+    "netFees": 1.4161000000000001,
+    "buyPrice": 15.5771,
+    "sellPrice": 12.69140625,
+    "profitableShare": 0,
+    "profitableShareDelta": 0
+  },
+  {
+    "share": 477,
+    "sharePrice": 14.2205625,
+    "netFees": 1.42205625,
+    "buyPrice": 15.64261875,
+    "sellPrice": 12.7449,
+    "profitableShare": 0,
+    "profitableShareDelta": 0
+  },
+  {
+    "share": 478,
+    "sharePrice": 14.28025,
+    "netFees": 1.428025,
+    "buyPrice": 15.708275,
+    "sellPrice": 12.798506249999999,
+    "profitableShare": 0,
+    "profitableShareDelta": 0
+  },
+  {
+    "share": 479,
+    "sharePrice": 14.3400625,
+    "netFees": 1.4340062500000001,
+    "buyPrice": 15.77406875,
+    "sellPrice": 12.852225,
+    "profitableShare": 0,
+    "profitableShareDelta": 0
+  },
+  {
+    "share": 480,
+    "sharePrice": 14.4,
+    "netFees": 1.4400000000000002,
+    "buyPrice": 15.84,
+    "sellPrice": 12.90605625,
+    "profitableShare": 0,
+    "profitableShareDelta": 0
+  },
+  {
+    "share": 481,
+    "sharePrice": 14.4600625,
+    "netFees": 1.44600625,
+    "buyPrice": 15.90606875,
+    "sellPrice": 12.96,
+    "profitableShare": 0,
+    "profitableShareDelta": 0
+  },
+  {
+    "share": 482,
+    "sharePrice": 14.52025,
+    "netFees": 1.4520250000000001,
+    "buyPrice": 15.972275000000002,
+    "sellPrice": 13.01405625,
+    "profitableShare": 0,
+    "profitableShareDelta": 0
+  },
+  {
+    "share": 483,
+    "sharePrice": 14.5805625,
+    "netFees": 1.45805625,
+    "buyPrice": 16.038618749999998,
+    "sellPrice": 13.068225,
+    "profitableShare": 0,
+    "profitableShareDelta": 0
+  },
+  {
+    "share": 484,
+    "sharePrice": 14.641,
+    "netFees": 1.4641000000000002,
+    "buyPrice": 16.1051,
+    "sellPrice": 13.122506249999999,
+    "profitableShare": 0,
+    "profitableShareDelta": 0
+  },
+  {
+    "share": 485,
+    "sharePrice": 14.7015625,
+    "netFees": 1.47015625,
+    "buyPrice": 16.17171875,
+    "sellPrice": 13.1769,
+    "profitableShare": 0,
+    "profitableShareDelta": 0
+  },
+  {
+    "share": 486,
+    "sharePrice": 14.76225,
+    "netFees": 1.4762250000000001,
+    "buyPrice": 16.238475,
+    "sellPrice": 13.23140625,
+    "profitableShare": 0,
+    "profitableShareDelta": 0
+  },
+  {
+    "share": 487,
+    "sharePrice": 14.8230625,
+    "netFees": 1.4823062500000002,
+    "buyPrice": 16.30536875,
+    "sellPrice": 13.286025,
+    "profitableShare": 0,
+    "profitableShareDelta": 0
+  },
+  {
+    "share": 488,
+    "sharePrice": 14.884,
+    "netFees": 1.4884000000000002,
+    "buyPrice": 16.3724,
+    "sellPrice": 13.34075625,
+    "profitableShare": 0,
+    "profitableShareDelta": 0
+  },
+  {
+    "share": 489,
+    "sharePrice": 14.9450625,
+    "netFees": 1.4945062500000001,
+    "buyPrice": 16.43956875,
+    "sellPrice": 13.3956,
+    "profitableShare": 0,
+    "profitableShareDelta": 0
+  },
+  {
+    "share": 490,
+    "sharePrice": 15.00625,
+    "netFees": 1.500625,
+    "buyPrice": 16.506875,
+    "sellPrice": 13.45055625,
+    "profitableShare": 0,
+    "profitableShareDelta": 0
+  },
+  {
+    "share": 491,
+    "sharePrice": 15.0675625,
+    "netFees": 1.50675625,
+    "buyPrice": 16.57431875,
+    "sellPrice": 13.505625,
+    "profitableShare": 0,
+    "profitableShareDelta": 0
+  },
+  {
+    "share": 492,
+    "sharePrice": 15.129,
+    "netFees": 1.5129000000000001,
+    "buyPrice": 16.6419,
+    "sellPrice": 13.560806249999999,
+    "profitableShare": 0,
+    "profitableShareDelta": 0
+  },
+  {
+    "share": 493,
+    "sharePrice": 15.1905625,
+    "netFees": 1.5190562500000002,
+    "buyPrice": 16.70961875,
+    "sellPrice": 13.6161,
+    "profitableShare": 0,
+    "profitableShareDelta": 0
+  },
+  {
+    "share": 494,
+    "sharePrice": 15.25225,
+    "netFees": 1.525225,
+    "buyPrice": 16.777475,
+    "sellPrice": 13.67150625,
+    "profitableShare": 0,
+    "profitableShareDelta": 0
+  },
+  {
+    "share": 495,
+    "sharePrice": 15.3140625,
+    "netFees": 1.53140625,
+    "buyPrice": 16.845468750000002,
+    "sellPrice": 13.727025,
+    "profitableShare": 0,
+    "profitableShareDelta": 0
+  },
+  {
+    "share": 496,
+    "sharePrice": 15.376,
+    "netFees": 1.5376,
+    "buyPrice": 16.9136,
+    "sellPrice": 13.78265625,
+    "profitableShare": 0,
+    "profitableShareDelta": 0
+  },
+  {
+    "share": 497,
+    "sharePrice": 15.4380625,
+    "netFees": 1.54380625,
+    "buyPrice": 16.98186875,
+    "sellPrice": 13.8384,
+    "profitableShare": 0,
+    "profitableShareDelta": 0
+  },
+  {
+    "share": 498,
+    "sharePrice": 15.50025,
+    "netFees": 1.550025,
+    "buyPrice": 17.050275,
+    "sellPrice": 13.89425625,
+    "profitableShare": 0,
+    "profitableShareDelta": 0
+  },
+  {
+    "share": 499,
+    "sharePrice": 15.5625625,
+    "netFees": 1.5562562500000001,
+    "buyPrice": 17.11881875,
+    "sellPrice": 13.950225,
+    "profitableShare": 0,
+    "profitableShareDelta": 0
+  }
+]
