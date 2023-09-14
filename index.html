@@ -1,0 +1,213 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Derisk Friend Tech</title>
+    
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Hanken+Grotesk:wght@500&display=swap');
+        body {
+            font-family: 'Hanken Grotesk', sans-serif;
+            font-size: 16px;
+            background-color: #F1F1F1;
+        }
+        h1 {
+            font-size: 36px;
+        }
+        hl {
+            color: #00BAFA;
+        }
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            margin-top: 20px;
+            text-align: center;
+        }
+        .output {
+            /* border: 1px solid #ccc; */
+            /* padding: 10px; */
+            margin-top: 50px;
+            text-align: left;
+        }
+        hr.dotted {
+            border-top: 3px dotted #bbb;
+        }
+        footer {
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+            text-align: center;
+            padding: 10px 0;
+            margin-bottom: 20px;
+            color: #00BAFA;
+        }
+        a, a:hover, a:visited, a:active {
+            color: #00BAFA;
+            text-decoration: none;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+
+<body>
+
+    <div class="container">
+
+        <h1>Derisk Friend Tech</h1>
+
+        <form id="shareForm">
+            <label for="sharePriceInput">Enter current entry price of key: </label>
+            <input type="text" id="sharePriceInput" name="sharePriceInput">
+            <button type="submit">Submit</button>
+            <br><br>OR<br><br>
+            Select from: 
+            <select id="shareSelect" name="shareSelect">
+                <option value="undefined">Share #</option>
+                <!-- Options will be added dynamically -->
+            </select>
+            /
+            <select id="sharePriceSelect" name="sharePriceSelect">
+                <option value="undefined">Share Price (ETH)</option>
+                <!-- Options will be added dynamically -->
+            </select>
+            <!-- TODO: add button "Clear" to reset the 2 dropdowns to default undefined -->
+            <button type="button" id="clearButton">Clear</button>
+        </form>
+        <div id="output" class="output"></div>
+    </div>
+
+    <footer>
+        <a href="https://x.com/miffyc_nft" target="_blank">@miffyc_nft</a>
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        <a href="https://www.friend.tech/rooms/0x3d780a9d81aab0c71fd9da1af7348ca744e0ff01" target="_blank">miffyc.eth💎⛩️</a>
+    </footer>
+
+    <script>
+        let data = [];
+
+        async function fetchData() {
+            try {
+                const response = await fetch('https://gist.githubusercontent.com/miffycs/3ba9ab35e0dc1569e10ecba9647bc41b/raw/3cbc5bebe581a393ab6ffb0b8271636a3e90fe14/data_buy.json');
+                data = await response.json();
+
+                const shareSelect = document.getElementById('shareSelect');
+                const sharePriceSelect = document.getElementById('sharePriceSelect');
+                data.forEach((item, index) => {
+                    shareSelect.options.add(new Option(item.share, index));
+                    sharePriceSelect.options.add(new Option(item.sharePrice.toFixed(8), index));
+                });
+            } catch (error) {
+                console.error('Error fetching data', error);
+            }
+        }
+
+        function populateDropdowns() {
+            const shareSelect = document.getElementById('shareSelect');
+            const sharePriceSelect = document.getElementById('sharePriceSelect');
+
+            data.forEach((item, index) => {
+                shareSelect.options.add(new Option(item.share, item.share));
+                sharePriceSelect.options.add(new Option(item.sharePrice.toFixed(8), index));
+            });
+
+        }
+
+        function findShareByPrice(sharePrice) {
+            return data.find(item => item.sharePrice >= sharePrice);
+        }
+
+        function getSuffix(num) {
+            const j = num % 10,
+                k = num % 100;
+            if (j == 1 && k != 11) {
+                return 'st';
+            }
+            if (j == 2 && k != 12) {
+                return 'nd';
+            }
+            if (j == 3 && k != 13) {
+                return 'rd';
+            }
+            return 'th';
+        }
+
+        function updateOutput(shareDetails) {
+            const output = document.getElementById('output');
+            if (!shareDetails) {
+                output.textContent = 'No data found for the given input.';
+                return;
+            }
+
+            const n = shareDetails.share;
+            const suffix = getSuffix(n);
+
+            output.innerHTML = `
+                <hr class="dotted">
+                <h2>Key</h2>
+                This will be the <hl>${n}${suffix}</hl> key (share) of this friend.
+                <br>
+                <br>
+                <hr class="dotted">
+                <h2>Buy</h2>
+                When you buy at <hl>${shareDetails.sharePrice.toFixed(8)}</hl>, you pay a net fee of <hl>${shareDetails.netFees.toFixed(8)}</hl>, making your total buying price <hl>${shareDetails.buyPrice.toFixed(8)}</hl>.
+                <br>
+                <br>
+                <hr class="dotted">
+                <h2>Sell @ Floor</h2>
+                If you decide to sell immediately, your sell price would be <hl>${shareDetails.sellPrice.toFixed(8)}</hl>.
+                <br>
+                <br>
+                <hr class="dotted">                
+                <h2>Sell for Profit</h2>
+                To sell for a profit, this friend would need to get to a total of <hl>${shareDetails.profitableShare}</hl> keys.
+                <br>
+                <br>
+                Which means you need to wait for a minimum of <hl>${shareDetails.profitableShareDelta} additional key purchases</hl>, before you can sell this key for a profit.
+                <br>
+                <br>
+                <hr class="dotted">
+            `;
+        }
+
+        document.addEventListener('DOMContentLoaded', () => {
+            const form = document.getElementById('shareForm');
+            const shareSelect = document.getElementById('shareSelect');
+            const sharePriceSelect = document.getElementById('sharePriceSelect');
+
+            fetchData();
+
+            form.addEventListener('submit', (e) => {
+                e.preventDefault();
+                const sharePriceInput = parseFloat(document.getElementById('sharePriceInput').value);
+                updateOutput(findShareByPrice(sharePriceInput));
+            });
+
+            shareSelect.addEventListener('change', (e) => {
+                if (e.target.value !== "undefined") {
+                    sharePriceSelect.value = "undefined";
+                    updateOutput(data[e.target.value]);
+                }
+            });
+
+            sharePriceSelect.addEventListener('change', (e) => {
+                if (e.target.value !== "undefined") {
+                    shareSelect.value = "undefined";
+                    updateOutput(data[e.target.value]);
+                }
+            });
+
+            document.getElementById('clearButton').addEventListener('click', () => {
+                shareSelect.value = "undefined";
+                sharePriceSelect.value = "undefined";
+                document.getElementById('output').textContent = '';
+            });
+        });
+    </script>
+
+</body>
+
+</html>
