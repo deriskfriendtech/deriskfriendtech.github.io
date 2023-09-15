@@ -8,7 +8,9 @@
     
     <style>
         @import url('https://fonts.googleapis.com/css2?family=Hanken+Grotesk:wght@500&display=swap');
-        body {
+        html, body {
+            height: 100%;
+            margin: 0;
             font-family: 'Hanken Grotesk', sans-serif;
             font-size: 16px;
             background-color: #F1F1F1;
@@ -19,11 +21,18 @@
         hl {
             color: #00BAFA;
         }
+        .site-container {
+            display: flex;
+            flex-direction: column;
+            min-height: 100vh;
+            align-items: center;
+        }
         .container {
             max-width: 800px;
-            margin: 0 auto;
+            margin: 10px 20px;
             margin-top: 20px;
             text-align: center;
+            flex: 1;
         }
         .output {
             /* border: 1px solid #ccc; */
@@ -35,12 +44,8 @@
             border-top: 3px dotted #bbb;
         }
         footer {
-            position: fixed;
-            bottom: 0;
-            width: 100%;
             text-align: center;
             padding: 10px 0;
-            margin-bottom: 20px;
             color: #00BAFA;
         }
         a, a:hover, a:visited, a:active {
@@ -55,37 +60,35 @@
 
 <body>
 
-    <div class="container">
+    <div class="site-container">
+        <div class="container">
+            <h1>Derisk Friend Tech</h1>
+            <form id="shareForm">
+                <label for="sharePriceInput">Enter current entry price of key: </label>
+                <input type="text" id="sharePriceInput" name="sharePriceInput">
+                <button type="submit">Submit</button>
+                <br><br>OR<br><br>
+                Select from: 
+                <select id="shareSelect" name="shareSelect">
+                    <option value="undefined">Share #</option>
+                    <!-- Options will be added dynamically -->
+                </select>
+                /
+                <select id="sharePriceSelect" name="sharePriceSelect">
+                    <option value="undefined">Share Price (ETH)</option>
+                    <!-- Options will be added dynamically -->
+                </select>
+                <button type="button" id="clearButton">Clear</button>
+            </form>
+            <div id="output" class="output"></div>
+        </div>
 
-        <h1>Derisk Friend Tech</h1>
-
-        <form id="shareForm">
-            <label for="sharePriceInput">Enter current entry price of key: </label>
-            <input type="text" id="sharePriceInput" name="sharePriceInput">
-            <button type="submit">Submit</button>
-            <br><br>OR<br><br>
-            Select from: 
-            <select id="shareSelect" name="shareSelect">
-                <option value="undefined">Share #</option>
-                <!-- Options will be added dynamically -->
-            </select>
-            /
-            <select id="sharePriceSelect" name="sharePriceSelect">
-                <option value="undefined">Share Price (ETH)</option>
-                <!-- Options will be added dynamically -->
-            </select>
-            <!-- TODO: add button "Clear" to reset the 2 dropdowns to default undefined -->
-            <button type="button" id="clearButton">Clear</button>
-        </form>
-        <div id="output" class="output"></div>
+        <footer>
+            <a href="https://x.com/miffyc_nft" target="_blank">@miffyc_nft</a>
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            <a href="https://www.friend.tech/rooms/0x3d780a9d81aab0c71fd9da1af7348ca744e0ff01" target="_blank">miffyc.eth💎⛩️</a>
+        </footer>
     </div>
-
-    <footer>
-        <a href="https://x.com/miffyc_nft" target="_blank">@miffyc_nft</a>
-        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-        <a href="https://www.friend.tech/rooms/0x3d780a9d81aab0c71fd9da1af7348ca744e0ff01" target="_blank">miffyc.eth💎⛩️</a>
-    </footer>
-
     <script>
         let data = [];
 
@@ -203,11 +206,10 @@
             document.getElementById('clearButton').addEventListener('click', () => {
                 shareSelect.value = "undefined";
                 sharePriceSelect.value = "undefined";
+                document.getElementById('sharePriceInput').value = '';
                 document.getElementById('output').textContent = '';
             });
         });
     </script>
-
 </body>
-
 </html>
